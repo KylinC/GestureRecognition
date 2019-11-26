@@ -1,4 +1,8 @@
 # dg refers to data-generator
+# a pkl file contains ([(c1, d1), ...], label)
+#   ci: 64 x 64 x 3 bgr image
+#   di: 64 x 64     depth image
+#   label: string
 
 import numpy as np
 import cv2
