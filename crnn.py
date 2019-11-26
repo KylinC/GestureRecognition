@@ -53,22 +53,31 @@ def preprocess(pkl_file):
 
 
 if __name__ == '__main__':
+    dataset = []
+    for gesture in os.listdir('data'):
+        for pkl_file in os.listdir(os.path.join('data', gesture)):
+            dataset.append(os.path.join('data', gesture, pkl_file))
+
+    # model 
     model = crnn()
     criterion = nn.MSELoss()
     optimizer = optim.Adam(model.parameters())
 
-    pkl_file = './data/wipe_right/1574757410.pkl'
-    x, y = preprocess(pkl_file)
-    x = torch.tensor(x.transpose(0, 3, 1, 2))
-    target = torch.tensor(np.zeros((1, 20), dtype=np.float32))
-    target[0, y] = 1
-    # print(x.shape)
-    # print(model(x).size())
-    out = model(x)
-    loss = criterion(out, target)
+    for pkl_file in dataset:
+        x, y = preprocess(pkl_file)
+        if len(x.shape) < 4:
+            continue
+        x = torch.tensor(x.transpose(0, 3, 1, 2))
+        target = torch.tensor(np.zeros((1, 20), dtype=np.float32))
+        target[0, y] = 1
+        # print(x.shape)
+        # print(model(x).size())
+        out = model(x)
+        loss = criterion(out, target)
 
-    optimizer.zero_grad()
-    loss.backward()
-    optimizer.step()
+        optimizer.zero_grad()
+        loss.backward()
+        optimizer.step()
 
-    print(loss.item())
+        print(loss.item())
+        # print(out)
