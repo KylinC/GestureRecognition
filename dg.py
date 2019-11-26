@@ -13,7 +13,9 @@ import dip
 cpp = CPP()
 cpp.start()
 
-root_path = './data/'
+gesture = 'wipe_right'
+root_path = './data/' + gesture
+
 if not os.path.exists(root_path):
     os.makedirs(root_path)
 
@@ -26,22 +28,22 @@ try:
 
         # crop
         crop_c, crop_d = dip.crop_cd(color, depth)
-        if crop_c is None or crop_d is None:  # end of recording or not started
+        if crop_c is None and crop_d is None:  # end of recording or not started
             if not recording:
                 data = []
-                continue
             else:
                 file_name = os.path.join(root_path, str(int(time()))) + '.pkl'
                 f = open(file_name, 'wb')
-                pickle.dump(data[: int(0.9 * len(data))], file=f)
+                pickle.dump((data[:int(0.9 * len(data))], gesture), file=f)
                 f.close()
 
                 recording = False
-                continue
+            continue
 
         recording = True
         dip.show_cd(crop_c, crop_d, 'crop_cd')
         data.append((crop_c, crop_d))
-
+except:
+    cv2.imwrite('wrong_color.jpg', color)
 finally:
     cpp.stop()
