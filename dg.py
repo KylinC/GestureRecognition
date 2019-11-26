@@ -33,7 +33,7 @@ try:
             else:
                 file_name = os.path.join(root_path, str(int(time()))) + '.pkl'
                 f = open(file_name, 'wb')
-                pickle.dump(data, file=f)
+                pickle.dump(data[: int(0.9 * len(data))], file=f)
                 f.close()
 
                 recording = False
