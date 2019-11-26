@@ -13,7 +13,7 @@ import dip
 cpp = CPP()
 cpp.start()
 
-gesture = 'wipe_right'
+gesture = 'wipe_up'
 root_path = './data/' + gesture
 
 if not os.path.exists(root_path):
@@ -43,7 +43,6 @@ try:
         recording = True
         dip.show_cd(crop_c, crop_d, 'crop_cd')
         data.append((crop_c, crop_d))
-except:
-    cv2.imwrite('wrong_color.jpg', color)
+
 finally:
     cpp.stop()
