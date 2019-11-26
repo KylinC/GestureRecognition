@@ -2,4 +2,4 @@ numpy
 pyrealsense2
 pickle
 matplotlib
-cv2>=4.0
+cv2
