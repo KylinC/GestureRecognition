@@ -12,7 +12,7 @@ def show_cd(color, depth, window_name='cd'):
     cv2.imshow(window_name, images)
 
 
-def get_hand_cd(color, depth):
+def crop_cd(color, depth):
 
     gray = cv2.cvtColor(color, cv2.COLOR_BGR2GRAY)
     ret, binary = cv2.threshold(gray, 0, 255,
