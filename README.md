@@ -6,3 +6,5 @@ SJTU-CS386 Project, CV gesture recognition with Realsense.
 - numpy
 - cv2 >= 4.0
 - pyrealsense2
+- pickle
+- matplotlib
