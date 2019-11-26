@@ -36,6 +36,11 @@ class CPP:
     def stop(self):
         self.pipeline.stop()
 
+    def get_clipping_distance(self):
+        self.start()
+        self.stop() 
+        return self.clipping_distance
+
     def cd(self):
         # get depth and color
         frames = self.pipeline.wait_for_frames()
