@@ -2,26 +2,46 @@
 
 import numpy as np
 import cv2
+import pickle
+import matplotlib.pyplot as plt
+import os  # for directory operations
+from time import time
+
 from cpp import CPP
-from dip import *
+import dip
 
 cpp = CPP()
 cpp.start()
 
+root_path = './data/'
+if not os.path.exists(root_path):
+    os.makedirs(root_path)
+
+recording = False
+
 try:
     while cv2.waitKey(1) != ord('q'):
         color, depth = cpp.cd()
-        show_cd(color, depth, 'cd')
+        dip.show_cd(color, depth, 'cd')
 
         # crop
-        hand_c, hand_d = crop_cd(color, depth)
-        if hand_c is None or hand_d is None:
-            # end of recording or not started
-            continue
+        crop_c, crop_d = dip.crop_cd(color, depth)
+        if crop_c is None or crop_d is None:  # end of recording or not started
+            if not recording:
+                data = []
+                continue
+            else:
+                file_name = os.path.join(root_path, str(int(time()))) + '.pkl'
+                f = open(file_name, 'wb')
+                pickle.dump(data, file=f)
+                f.close()
 
-        show_cd(hand_c, hand_d, 'hand_cd')
+                recording = False
+                continue
 
-        data = np.dstack((hand_c, hand_d))
+        recording = True
+        dip.show_cd(crop_c, crop_d, 'crop_cd')
+        data.append((crop_c, crop_d))
 
 finally:
     cpp.stop()
