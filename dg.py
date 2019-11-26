@@ -17,7 +17,7 @@ import dip
 cpp = CPP()
 cpp.start()
 
-gesture = 'wipe_up'
+gesture = 'wing_twice'
 root_path = './data/' + gesture
 
 if not os.path.exists(root_path):
@@ -40,6 +40,7 @@ try:
                 f = open(file_name, 'wb')
                 pickle.dump((data[:int(0.9 * len(data))], gesture), file=f)
                 f.close()
+                print(file_name, ' saved!')
 
                 recording = False
             continue

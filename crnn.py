@@ -4,6 +4,7 @@ import torch.optim as optim
 import pickle
 import numpy as np
 import os
+import random 
 
 gesture_map = {}
 for i, gesture in enumerate(os.listdir('data')):
@@ -58,29 +59,32 @@ if __name__ == '__main__':
         for pkl_file in os.listdir(os.path.join('data', gesture)):
             dataset.append(os.path.join('data', gesture, pkl_file))
 
+    random.shuffle(dataset)
+
     # model 
     model = crnn()
     criterion = nn.MSELoss()
     optimizer = optim.Adam(model.parameters())
 
-    for pkl_file in dataset:
-        x, y = preprocess(pkl_file)
-        if len(x.shape) < 4:
-            continue
-        x = torch.tensor(x.transpose(0, 3, 1, 2))
-        target = torch.tensor(np.zeros((1, 20), dtype=np.float32))
-        target[0, y] = 1
-        # print(x.shape)
-        # print(model(x).size())
-        out = model(x)
-        loss = criterion(out, target)
+    for epoch in range(1):
+        for pkl_file in dataset:
+            x, y = preprocess(pkl_file)
+            if len(x.shape) < 4:
+                continue
+            x = torch.tensor(x.transpose(0, 3, 1, 2))
+            target = torch.tensor(np.zeros((1, 20), dtype=np.float32))
+            target[0, y] = 1
+            # print(x.shape)
+            # print(model(x).size())
+            out = model(x)
+            loss = criterion(out, target)
 
-        optimizer.zero_grad()
-        loss.backward()
-        optimizer.step()
+            optimizer.zero_grad()
+            loss.backward()
+            optimizer.step()
 
-        print(loss.item())
-        # print(out)
+            print(loss.item())
+            # print(out)
 
     model_path = 'model'
     if not os.path.exists(model_path):
