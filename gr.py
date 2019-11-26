@@ -39,6 +39,12 @@ try:
                 # y = crnn(x)
                 # pred = classification(y)
                 # print(pred)
+                # choice = input("add it to training set? (y/n)")
+                # if choice == 'y':
+                #     file_name = os.path.join(root_path, pred, str(int(time()))) + '.pkl'
+                #     f = open(file_name, 'wb')
+                #     pickle.dump((data[:int(0.9 * len(data))], gesture), file=f)
+                #     f.close()
 
                 recording = False
                 print("Please show me your hand pose, q to quit!")
