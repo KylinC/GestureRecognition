@@ -81,3 +81,8 @@ if __name__ == '__main__':
 
         print(loss.item())
         # print(out)
+
+    model_path = 'model'
+    if not os.path.exists(model_path):
+        os.makedirs(model_path)
+    torch.save(model.state_dict(), os.path.join(model_path, 'model.pth'))
