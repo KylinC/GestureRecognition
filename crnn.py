@@ -4,11 +4,7 @@ import torch.optim as optim
 import pickle
 import numpy as np
 import os
-import random 
-
-gesture_map = {}
-for i, gesture in enumerate(os.listdir('data')):
-    gesture_map[gesture] = i
+import random
 
 
 class crnn(nn.Module):
@@ -44,6 +40,12 @@ class crnn(nn.Module):
         return x
 
 
+
+gesture_map = {}
+for i, gesture in enumerate(os.listdir('data')):
+    gesture_map[gesture] = i
+
+
 def preprocess(pkl_file):
     with open(pkl_file, 'rb') as f:
         seq, gesture = pickle.load(f)
@@ -51,6 +53,31 @@ def preprocess(pkl_file):
         for c, d in seq:
             data.append(c)
         return np.array(data).astype(np.float32), gesture_map[gesture]
+
+
+def preprocess_seq(seq):
+    data = []
+    for c, d in seq:
+        data.append(c)
+    return np.array(data).astype(np.float32)
+
+
+def acc_rate(model, testset):
+    right = 0
+    total = 0
+    for pkl_file in testset:
+        x, y = preprocess(pkl_file)
+        if len(x.shape) < 4:
+            continue
+        x = torch.tensor(x.transpose(0, 3, 1, 2))
+        target = torch.tensor(np.zeros((1, 20), dtype=np.float32))
+        target[0, y] = 1
+
+        out = model(x)
+        if out.detach().numpy().argmax() == y:
+            right += 1
+        total += 1
+    return right / total
 
 
 if __name__ == '__main__':
@@ -61,21 +88,23 @@ if __name__ == '__main__':
 
     random.shuffle(dataset)
 
-    # model 
+    trainset = dataset[:int(len(dataset) * 0.7)]
+    testset = dataset[int(len(dataset) * 0.7):]
+
+    # model
     model = crnn()
     criterion = nn.MSELoss()
-    optimizer = optim.Adam(model.parameters())
+    optimizer = optim.Adam(model.parameters(), lr=1e-4)
 
-    for epoch in range(1):
-        for pkl_file in dataset:
+    for epoch in range(10):
+        for i, pkl_file in enumerate(trainset):
             x, y = preprocess(pkl_file)
             if len(x.shape) < 4:
                 continue
             x = torch.tensor(x.transpose(0, 3, 1, 2))
             target = torch.tensor(np.zeros((1, 20), dtype=np.float32))
             target[0, y] = 1
-            # print(x.shape)
-            # print(model(x).size())
+            
             out = model(x)
             loss = criterion(out, target)
 
@@ -83,8 +112,9 @@ if __name__ == '__main__':
             loss.backward()
             optimizer.step()
 
-            print(loss.item())
-            # print(out)
+            if i % 10 == 0:
+                print("epoch: {}, loss: {:.6f}, acc: {:.6f}".format(epoch, loss.item(), acc_rate(model, testset)))
+
 
     model_path = 'model'
     if not os.path.exists(model_path):
