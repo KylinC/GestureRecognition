@@ -21,7 +21,5 @@ try:
 
         show_cd(hand_c, hand_d, 'hand_cd')
 
-        data = np.dstack((hand_c, hand_d))
-
 finally:
     cpp.stop()
