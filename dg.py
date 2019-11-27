@@ -17,7 +17,7 @@ import dip
 cpp = CPP()
 cpp.start()
 
-gesture = 'wing_twice'
+gesture = 'snap'
 root_path = './data/' + gesture
 
 if not os.path.exists(root_path):
@@ -37,9 +37,9 @@ try:
                 data = []
             else:
                 file_name = os.path.join(root_path, str(int(time()))) + '.pkl'
-                f = open(file_name, 'wb')
-                pickle.dump((data[:int(0.9 * len(data))], gesture), file=f)
-                f.close()
+                with open(file_name, 'wb') as f:
+                    pickle.dump((data[:int(0.9 * len(data))], gesture), file=f)
+
                 print(file_name, ' saved!')
 
                 recording = False
