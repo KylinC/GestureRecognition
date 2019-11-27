@@ -1,0 +1,813 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" class="ancient-ie old-ie no-js bit-html" dir="ltr" lang="zh-CN">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" class="ancient-ie old-ie no-js bit-html" dir="ltr" lang="zh-CN">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" class="old-ie no-js bit-html" dir="ltr" lang="zh-CN">
+<![endif]-->
+<!--[if IE 9]>
+<html id="ie9" class="old-ie9 no-js bit-html" dir="ltr" lang="zh-CN">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html class="no-js bit-html" dir="ltr" lang="zh-CN">
+<!--<![endif]-->
+<head>
+	<!-- for 360 -->
+	<meta name="renderer" content="webkit"> 
+	<meta name="applicable-device" content="pc,mobile"> <!-- for baidu -->
+	<meta http-equiv="Cache-Control" content="no-transform" /> <!-- for baidu -->
+    <meta name="MobileOptimized" content="width"/><!-- for baidu -->
+    <meta name="HandheldFriendly" content="true"/><!-- for baidu -->
+    
+	<!-- start of customer header -->
+		<!-- end of customer header -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+			<title>个人简历-通信工程 | 起飞页建站模板</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="http://5513e8ed8fca9.t73.qifeiye.com/xmlrpc.php" />
+		<!--[if lt IE 9]>
+	<script src="http://5513e8ed8fca9.t73.qifeiye.com/FeiEditor/bitSite/js/html5shiv.min.js"></script>
+	<![endif]-->
+		<!--[if lt IE 9]>
+	<script src="http://5513e8ed8fca9.t73.qifeiye.com/FeiEditor/bitSite/js/respond.min.js"></script>
+	<![endif]-->
+		<style type="text/css" id="static-stylesheet"></style>
+	<link rel="stylesheet" href="//5513e8ed8fca9.t73.qifeiye.com/qfy-content/cache/scripts/46051764a213a2ee89e1c67329b0517f.css" type="text/css" media="all" /> <!-- Cache! -->
+<link rel="stylesheet" href="//5513e8ed8fca9.t73.qifeiye.com/qfy-content/cache/scripts/457646eb0d362d9c0b17f59118ef072d.css" type="text/css" media="all" /> <!-- Cache! -->
+<link rel="stylesheet" href="//5513e8ed8fca9.t73.qifeiye.com/qfy-content/cache/scripts/fb5a793f1fa9b1d2c824fdb9fa170efb.css" type="text/css" media="all" /> <!-- Cache! -->
+<link rel="stylesheet" href="//5513e8ed8fca9.t73.qifeiye.com/qfy-content/cache/scripts/735ebf197b98e38ad1fddec14ef8eba0.css" type="text/css" media="all" /> <!-- Cache! -->
+<link rel="stylesheet" href="//5513e8ed8fca9.t73.qifeiye.com/qfy-content/cache/scripts/a6c0d371323b0e1f3228bdfa3041c864.css" type="text/css" media="all" /> <!-- Cache! -->
+<style type='text/css'>
+
+</style>
+<script type='text/javascript'>
+/* <![CDATA[ */
+/* thickbox */
+var thickboxL10n = {"next":"\u4e0b\u4e00\u5f20 >","prev":"< \u4e0a\u4e00\u5f20","image":"\u56fe\u7247","of":"\/","close":"\u5173\u95ed","noiframes":"\u8fd9\u4e2a\u529f\u80fd\u9700\u8981iframe\u7684\u652f\u6301\u3002\u60a8\u53ef\u80fd\u7981\u6b62\u4e86iframe\u7684\u663e\u793a\uff0c\u6216\u60a8\u7684\u6d4f\u89c8\u5668\u4e0d\u652f\u6301\u6b64\u529f\u80fd\u3002","loadingAnimation":"\/\/fast.qifeiye.com\/FeiEditor\/bitSite\/images\/preloader.gif"};
+/* dt-plugins */
+var dtLocal = {"passText":"\u67e5\u770b\u8fd9\u4e2a\u52a0\u5bc6\u8d44\u8baf\uff0c\u8bf7\u5728\u4e0b\u9762\u8f93\u5165\u5bc6\u7801\uff1a","moreButtonAllLoadedText":"\u5168\u90e8\u5df2\u52a0\u8f7d","postID":"2160","ajaxurl":"http:\/\/5513e8ed8fca9.t73.qifeiye.com\/admin\/admin-ajax.php","contactNonce":"12974d6828","ajaxNonce":"683efce0ef","pageData":{"type":"page","template":"page","layout":null},"themeSettings":{"smoothScroll":"on"}};
+
+/* ]]> */
+</script>
+<script type="text/javascript" src="//5513e8ed8fca9.t73.qifeiye.com/qfy-content/cache/scripts/68da8b3895147e1585d82e402364f112.js">/*Cache!*/</script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://5513e8ed8fca9.t73.qifeiye.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://5513e8ed8fca9.t73.qifeiye.com/qfy-includes/wlwmanifest.xml" /> 
+
+<link rel='canonical' href='http://5513e8ed8fca9.t73.qifeiye.com/' />
+<link rel='shortlink' href='http://5513e8ed8fca9.t73.qifeiye.com/?p=2160' />
+<style class='style_0'>.bitRightSider .widget-title,.bitLeftSider .widget-title{padding:0 0 0 10px;height:28px;line-height:28px;background-color:#024886;margin:0px;font-family:;font-size:px;font-weight:normal;font-style:normal;text-decoration:none;color:#fff;border-top:0;border-left:0;border-right:0;border-bottom:0;background-image: url(//fast.qifeiye.com/qfy-content/plugins//bit-plugin/assets/frame/header_bg/1/bg.png);background-repeat: repeat;-webkit-border-top-left-radius: 0;-webkit-border-top-right-radius: 0;-moz-border-radius-topleft: 0;-moz-border-radius-topright: 0;border-top-left-radius: 0;border-top-right-radius: 0;} .bitRightSider .bitWidgetFrame,.bitLeftSider .bitWidgetFrame{border-top:0;border-bottom:1px solid #bababa;border-left:1px solid #bababa;border-right:1px solid #bababa;padding:4px 10px 4px 10px;-webkit-border-bottom-left-radius: 0;-webkit-border-bottom-right-radius: 0;-moz-border-radius-bottomleft: 0;-moz-border-radius-bottomright: 0;border-bottom-left-radius: 0;border-bottom-right-radius: 0;}.bitRightSider .site_tooler,.bitLeftSider .site_tooler{-webkit-box-shadow:none;box-shadow:none;}.bitRightLeftSiderWidget.site_tooler .bitWidgetFrame,.bitRightLeftSiderWidget.site_tooler .bitWidgetFrame{background-color:transparent;background-image:none;-webkit-border-bottom-left-radius: 0px;border-bottom-left-radius: 0px;-webkit-border-bottom-right-radius: 0px;border-bottom-right-radius: 0px;}</style><style class='style_0'>.footer .widget-title{padding:0 0 0 10px;height:28px;line-height:28px;background-color:#024886;margin:0px;font-family:;font-size:px;font-weight:normal;font-style:normal;text-decoration:none;color:#fff;border-top:0;border-left:0;border-right:0;border-bottom:0;background-image:none;-webkit-border-top-left-radius: 4px;-webkit-border-top-right-radius: 4px;-moz-border-radius-topleft: 4px;-moz-border-radius-topright: 4px;border-top-left-radius: 4px;border-top-right-radius: 4px;} .footer .widget-title{border-top:0;border-left:0;border-right:0;} .footer  .bitWidgetFrame{border-bottom:0;border-top:0;border-left:0;border-right:0;padding:4px 10px 4px 10px;}.footer .site_tooler{-webkit-box-shadow:none;box-shadow:none;}.footer .site_tooler .bitWidgetFrame{background-color:transparent;background-image:none;-webkit-border-bottom-left-radius: 4px;border-bottom-left-radius: 4px;-webkit-border-bottom-right-radius: 4px;border-bottom-right-radius: 4px;}</style><meta name="robots" content="index, follow" />
+<meta name="description" content="起飞页建站模板" />
+		<style type="text/css" >
+</style>
+		<script type="text/javascript">
+			dtGlobals.logoEnabled = 0;dtGlobals.curr_id = 2160;dtGlobals.logoURL = '';dtGlobals.logoW = '0';dtGlobals.logoH = '0';dtGlobals.qfyname = '起飞页';dtGlobals.id = '5513e8ed8fca9';dtGlobals.language = '';smartMenu = 1;document.cookie='resolution='+Math.max(screen.width,screen.height)+'; path=/';
+			dtGlobals.gallery_bgcolor = 'rgba(51,51,51,1)';dtGlobals.gallery_showthumbs = '0';dtGlobals.gallery_style = '';dtGlobals.gallery_autoplay = '0';dtGlobals.gallery_playspeed = '3';dtGlobals.gallery_imagesize = '100';dtGlobals.gallery_stopbutton = '';dtGlobals.gallery_thumbsposition = '';dtGlobals.gallery_tcolor = '#fff';dtGlobals.gallery_tsize = '16';dtGlobals.gallery_dcolor = '#fff';dtGlobals.gallery_dsize = '14';dtGlobals.gallery_tfamily = '';dtGlobals.gallery_dfamily = '';dtGlobals.gallery_blankclose = '0';dtGlobals.fm_showstyle = '';dtGlobals.fm_showspeed = '';dtGlobals.cdn_url = 'http://static.qifeiye.com';dtGlobals.qfymodel = "";
+			            			var socail_back_url = '';
+					
+		</script>
+
+			
+
+</head>
+
+
+<body  class="home page page-id-2160 page-template-default image-blur btn-flat content-fullwidth wpb-js-composer js-comp-ver-4.0.1 vc_responsive"  data-pid="2160" data-pkey="43696bcdc4f8022776101003c5671fe2">
+
+<div   id="page"  class='bodyheader0 breackall hidefooter wide ' >
+
+
+
+	<!-- left, center, classical, classic-centered -->
+	<!-- !Header -->
+	<header id="header" class="logo-classic-centered headerPM menuPositionHolder transparent" role="banner"><!-- class="overlap"; class="logo-left", class="logo-center", class="logo-classic" -->
+		
+		<div class="wf-wrap "  >
+			<div class="wf-table">
+
+				
+
+<div id="branding" class="wf-td bit-logo-bar" style="" >
+	
+	
+	<!-- <div id="site-title" class="assistive-text"></div>
+	<div id="site-description" class="assistive-text"></div> -->
+</div>
+			</div><!-- .wf-table -->
+		</div><!-- .wf-wrap -->
+		
+								<div class="wf-mobile-visible wf-td assistive-info    " role="complementary"  >
+					<div  class="top-bar-right right bit_widget_more" bitdatamarker="bitHeader-2" bitdataaction="site_fix_container" bitdatacolor="white">
+					 					</div>
+				</div>
+		
+		<div class="navigation-holder">
+			<div>
+
+					
+		<!-- !- Navigation -->
+		<nav style="0" id="navigation" class="wf-wrap"   bitDataAction="site_menu_container" bitDataLocation="primary" >
+			<ul id="main-nav" data-st="0" data-sp="0"  data-fh="" data-mw="" data-lh="" class="mainmenu fancy-rollovers wf-mobile-hidden bit-menu-default underline-hover position-text-right"      data-bit-menu=underline-hover data-bit-float-menu=underline-hover ><li class=" menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2160 current_page_item bit-menu-post-id-2160 menu-item-2319 act first"><a href="http://5513e8ed8fca9.t73.qifeiye.com/"><span>首页</span></a></li><li class=" menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-home bit-menu-post-id-7343 menu-item-7343"><a href="http://5513e8ed8fca9.t73.qifeiye.com/#bit_pmwl8"><span>关于我</span></a></li><li class=" menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-home bit-menu-post-id-7076 menu-item-7076"><a href="http://5513e8ed8fca9.t73.qifeiye.com/#bit_nt7b8"><span>教育实践</span></a></li><li class=" menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-home bit-menu-post-id-6301 menu-item-6301"><a href="http://5513e8ed8fca9.t73.qifeiye.com/#bit_nyho2"><span>工作经历</span></a></li><li class=" menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-home bit-menu-post-id-7078 menu-item-7078"><a href="http://5513e8ed8fca9.t73.qifeiye.com/#bit_vol42"><span>知识技能</span></a></li><li class=" menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-home bit-menu-post-id-7080 menu-item-7080"><a href="http://5513e8ed8fca9.t73.qifeiye.com/#bit_ocmzg"><span>联系方式</span></a></li>
+</ul>
+						
+			<a  data-padding='' data-top='8' data-right='8' rel="nofollow" id="mobile-menu" style="display:none;" class="glyphicon glyphicon-icon-align-justify center" >
+				<span class="menu-open  phone-text">首页</span>
+				<span class="menu-close">关闭</span>
+				<span class="menu-back">返回上一级</span>
+				<span class="wf-phone-visible">&nbsp;</span>
+			</a>
+
+					</nav>
+		<div style="display:none;" id="main-nav-slide">
+									<div class="main-nav-slide-inner" data-class="" >
+				<div  class="floatmenu-bar-right bit_widget_more" bitdatamarker="bitHeader-3" bitdataaction="site_fix_container" bitdatacolor="white">
+					 				</div>
+			</div>
+		</div>
+		
+	
+			</div>
+		</div><!-- .navigation-holder -->
+
+		
+	</header><!-- #masthead -->
+
+ <section class="bitBanner" id="bitBanner" bitdatamarker="bitBanner" bitdataaction="site_fix_container" >
+	</section>
+<div id="main" class="bit_main_content">
+
+
+		<div class="main-gradient"></div>
+
+		<div class="wf-wrap">
+			<div class="wf-container-main">
+
+				
+
+			
+
+			<div id="content" class="content" role="main">
+
+								
+<div class="main-outer-wrapper ">
+        <div class="bit_row">
+
+                <div class="twelve columns no-sidebar-content ">
+                
+                    <div class="bit_row">
+                    
+                            <div class="content-wrapper twelve columns ">
+                              <section  data-fixheight="" class="qfy-row-1-5a1557f14e5d6148600 section minperheight100    no  section-text-no-shadow section-inner-no-shadow section-normal"  id="bit_unvk2"  style='margin-bottom:0;border-radius:0px;color:#ffffff;' >
+    <style class="row_class qfy_style_class">
+	@media only screen and (min-width: 992px){
+		section.section.qfy-row-1-5a1557f14e5d6148600{padding-left:0;padding-right:0;padding-top:20px;padding-bottom:0;margin-top:0;}}
+	   	
+	   @media only screen and (max-width: 992px){
+		.bit-html section.section.qfy-row-1-5a1557f14e5d6148600{padding-left:15px;padding-right:15px;padding-top:20px;padding-bottom:0;margin-top:0;}}
+	</style>
+            <div data-time="3" data-imagebgs="" class="background-media  " backgroundSize='true'  style="background-image: url('http://static.qifeiye.com/caches/0482949eac6b5cb4703326ef21f64e6a/aHR0cDovLzU1MTNlOGVkOGZjYTkudDczLnFpZmVpeWUuY29tL3FmeS1jb250ZW50L3VwbG9hZHMvMjAxNC8wNi81NTIzYzg4ZGQzNDdkMWI3Y2M2MTdmNjMyYjdlZmRiNy5qcGc_p_p100_p_3D.jpg'); background-repeat:no-repeat; background-size:cover; background-attachment:scroll; background-position:0 0%;">
+                    </div>
+		
+    	    <div class="section-background-overlay background-overlay grid-overlay-0 " style="background-color: rgba(12,52,78,0.5);"></div>
+
+    <div class="container">
+        <div class="row wpb_row">
+            <div   data-animaleinbegin="bottom-in-view" data-animalename="qfyfadeInUp"  data-duration="" data-delay=""  class=" qfy-column-1-5a1557f14eaba619768 qfy-column-inner  vc_span12  text-Default small-screen-undefined column_middle fullrow"  data-dw="1/1" data-fixheight="" ><div style="margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;border-radius:0px;;position:relative;;" class="column_inner " ><div class=" background-overlay grid-overlay-0" style="background-color:transparent;width:100%;"></div><div class="column_containter" style="z-index:3;position:relative;" >
+	<div id="vc_header_5a1557f14edd1441"  m-padding="0px 0px 0px 0px"  p-padding="0 0 0 0" css_animation_delay="0" qfyuuid="qfy_header_pezgg" data-anitime='0.7'  class="qfy-element minheigh1px wpb_text_column wpb_content_element " style="position: relative;;;background-repeat: no-repeat;;margin-top:20px;margin-bottom:10px;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;"><style>@media only screen and (max-width: 760px) {#vc_header_5a1557f14edd1441 .header_title{font-size:30px !important;}}@media only screen and (max-width: 760px) {#vc_header_5a1557f14edd1441 .header_subtitle{font-size:14px !important;}}</style>
+		<div class="wpb_wrapper">
+			<H1 class="qfy_title center mobilecenter"><div class="qfy_title_inner" style="display:inline-block;position:relative;max-width:100%;"><div class="header_title" style="font-size:60px;font-weight:normal;font-style:normal;color:#ffffff;">徐 怀 东</div></div><style></style><div class="button_wrapper" style="display:none;"><div class="button " style="display:inline-block;max-width:100%;text-align:center; font-size:12px;"></div></div><span  style="clear:both;"></span></H1>
+		</div> 
+	</div> 
+	<div  m-padding="0px 0px 0px 0px"  p-padding="0 0 0 0" css_animation_delay="0" qfyuuid="qfy_column_text_888kf" data-anitime='0.7'  class="qfy-element qfy-text qfy-text-65383 wpb_text_column wpb_content_element  mobile_fontsize" style="position: relative;;;line-height:1.5em;;background-position:left top;background-repeat: no-repeat;;margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;border-radius:0px;">
+		<div class="wpb_wrapper">
+			<div style="text-align: center;"><span style="font-size:20px;">英文名称：Jack Xu</span></div>
+
+		</div> 
+	</div> 
+	<div  m-padding="31px 0px 0px 0px"  p-padding="31px 0 0 0" css_animation_delay="0" qfyuuid="qfy_column_text_cp3v3" data-anitime='0.7'  class="qfy-element qfy-text qfy-text-64861 wpb_text_column wpb_content_element  mobile_fontsize" style="position: relative;;;line-height:1.5em;;background-position:left top;background-repeat: no-repeat;;margin-top:0;margin-bottom:0;padding-top:31px;padding-bottom:0;padding-right:0;padding-left:0;border-radius:0px;">
+		<div class="wpb_wrapper">
+			<div style="text-align: center;"><span style="color:#00FFFF;">资深网站设计师、AI设计师</span></div>
+
+		</div> 
+	</div> <div id="icons_list-5a1557f14f5746408" style="padding-top:39px;padding-bottom:0;padding-right:0;padding-left:0;"  m-padding="39px 0px 0px 0px"  p-padding="39px 0 0 0" css_animation_delay="0" qfyuuid="qfy_socail_icons_list_sit2h"  class="qfy-icons_list  qfy-element " ><ul class="gallery_icons_list " style="text-align:center;"><li  style='display:inline-block;'  ><span data-desc='' data-tj='1' data-ta='2' data-width='150' data-image='' style='margin-left:5px;margin-right:5px;margin-bottom:px' class=' qfy-icon qfy-icon_64x64 facebook-icon_64x64' ></span></li><li  style='display:inline-block;'  ><span data-desc='' data-tj='1' data-ta='2' data-width='150' data-image='' style='margin-left:5px;margin-right:5px;margin-bottom:px' class=' qfy-icon qfy-icon_64x64 twitter-icon_64x64' ></span></li><li  style='display:inline-block;'  ><span data-desc='' data-tj='1' data-ta='2' data-width='150' data-image='' style='margin-left:5px;margin-right:5px;margin-bottom:px' class=' qfy-icon qfy-icon_64x64 webchat-icon_64x64' ></span></li><li  style='display:inline-block;'  ><span data-desc='' data-tj='1' data-ta='2' data-width='150' data-image='' style='margin-left:5px;margin-right:5px;margin-bottom:px' class=' qfy-icon qfy-icon_64x64 weixin-icon_64x64' ></span></li><li  style="clear:both;"></li></ul></div><div id="icon-5a1557f14f7c7396241" style="margin-top:0;margin-bottom:0;padding-top:83px;padding-bottom:0;padding-right:0;padding-left:0;"  m-padding="83px 0px 0px 0px"  p-padding="83px 0 0 0" css_animation_delay="0" qfyuuid="qfy_icon_mtyqw" data-anitime='0.7'   class="qfy-element vc_icon_element vc_icon_element-outer delay0 vc_icon_element-align-center vc_icon_element-have-style icon-fontawesome">
+<style>
+#icon-5a1557f14f7c7396241 .vc_icon_element-inner:hover .vc_icon_element-icon,.hover #icon-5a1557f14f7c7396241 .vc_icon_element-inner .vc_icon_element-icon{color:#00ffff !important}
+#icon-5a1557f14f7c7396241 .vc_icon_element-inner:hover,.hover #icon-5a1557f14f7c7396241 .vc_icon_element-inner{border-color:#00ffff !important;}</style>
+	<div  class=" vc_icon_element-inner vc_icon_element-color- vc_icon_element-have-style-inner vc_icon_element-size-sm vc_icon_element-style-rounded-outline vc_icon_element-outline vc_icon_element-background-color-" style="border-color:#ffffff;border-width:2px;">
+				<span class="vc_icon_element-icon glyphicon glyphicon-icon-angle-down" style="color:#ffffff;"></span>
+				<a class="vc_icon_element-link" href="?page_id=2160#bit_pmwl8" target=""></a></div>
+
+
+</div>
+</div></div></div><style class="column_class qfy_style_class">@media only screen and (min-width: 992px){.qfy-column-1-5a1557f14eaba619768 > .column_inner {padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;}.wpb_row .vc_span_class.qfy-column-1-5a1557f14eaba619768 {};}@media only screen and (max-width: 992px){.qfy-column-1-5a1557f14eaba619768 > .column_inner{margin:0 auto 0 !important;padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;}.display_entire .wpb_row .vc_span_class.qfy-column-1-5a1557f14eaba619768 {}.qfy-column-1-5a1557f14eaba619768 > .column_inner> .background-overlay,.qfy-column-1-5a1557f14eaba619768 > .column_inner> .background-media{width:100% !important;left:0 !important;right:auto !important;}}</style>        </div>
+    </div>
+	
+</section><section  data-fixheight="" class="qfy-row-2-5a1557f14fa4a268153 section     no  section-text-no-shadow section-inner-no-shadow section-normal"  id="bit_pmwl8"  style='margin-bottom:0;border-radius:0px;color:#000000;' >
+    <style class="row_class qfy_style_class">
+	@media only screen and (min-width: 992px){
+		section.section.qfy-row-2-5a1557f14fa4a268153{padding-left:0;padding-right:0;padding-top:100px;padding-bottom:100px;margin-top:0;}section.section.qfy-row-2-5a1557f14fa4a268153 > .container{max-width:1280px;margin:0 auto;}}
+	   	
+	   @media only screen and (max-width: 992px){
+		.bit-html section.section.qfy-row-2-5a1557f14fa4a268153{padding-left:15px;padding-right:15px;padding-top:40px;padding-bottom:40px;margin-top:0;}}
+	</style>
+    	    <div class="section-background-overlay background-overlay grid-overlay-0 " style="background-color: rgba(33,76,106,0.2);"></div>
+
+    <div class="container">
+        <div class="row wpb_row">
+            <div   data-animaleinbegin="bottom-in-view" data-animalename="qfyfadeInUp"  data-duration="" data-delay=""  class=" qfy-column-2-5a1557f14fcfd92894 qfy-column-inner  vc_span_class  vc_span4  text-Default small-screen-Default column_middle notfullrow"  data-dw="1/3" data-fixheight="" ><div style="margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;border-radius:0px;;position:relative;;" class="column_inner " ><div class=" background-overlay grid-overlay-0" style="background-color:transparent;width:100%;"></div><div class="column_containter" style="z-index:3;position:relative;" ><style>@media only screen and (max-width: 768px) {.single_image_text-5a1557f150362215 .head{font-size: 16px !important;}.single_image_text-5a1557f150362215 .content{font-size: 16px !important;}}</style>
+	<div id="vc_img_5a1557f1502db841" style="width:100%;padding:0px;margin:0px;height:100%;clear:both;position:relative;margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;background-repeat: no-repeat;"     m-padding="0px 0px 0px 0px"  p-padding="0 0 0 0" css_animation_delay="0" qfyuuid="qfy_single_image_u8ngv" data-anitime='0.7'  class="qfy-element bitImageControlDiv"><a class="bitImageAhover  " >
+	<div class="bitImageParentDiv wpb_single_image wpb_content_element wpb_animate_when_almost_visible wpb_qfy_rotateIn vc_align_center">
+		<div class="wpb_wrapper"><span></span><img class="front_image vc_box_circle  ag_image" src="http://static.qifeiye.com/caches/0482949eac6b5cb4703326ef21f64e6a/aHR0cDovLzU1MTNlOGVkOGZjYTkudDczLnFpZmVpeWUuY29tL3FmeS1jb250ZW50L3VwbG9hZHMvMjAxNC8wNi9jODFlNzI4ZDlkNGMyZjYzNmYwNjdmODljYzE0ODYyYy0zMDB4MzAwLmpwZw_p_p100_p_3D_p_p100_p_3D.jpg" alt="2" description=""    data-title="2" title="" src-img ="" style='' /></div> 
+	</div> 
+	</div> </a>
+	<div  m-padding="0px 0px 0px 0px"  p-padding="0px 0px 0px 0px" css_animation_delay="0" qfyuuid="0"  class="qfy-element qfy-text qfy-text-58054 wpb_text_column wpb_content_element " style="position: relative;;;line-height:1.5em;;background-repeat: no-repeat;;">
+		<div class="wpb_wrapper">
+			&nbsp;
+		</div> 
+	</div> </div></div></div><style class="column_class qfy_style_class">@media only screen and (min-width: 992px){.qfy-column-2-5a1557f14fcfd92894 > .column_inner {padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;}.wpb_row .vc_span_class.qfy-column-2-5a1557f14fcfd92894 {width:43.083333333333336%;};}@media only screen and (max-width: 992px){.qfy-column-2-5a1557f14fcfd92894 > .column_inner{margin:0 auto 0 !important;padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;}.display_entire .wpb_row .vc_span_class.qfy-column-2-5a1557f14fcfd92894 {width:43.083333333333336%;}.qfy-column-2-5a1557f14fcfd92894 > .column_inner> .background-overlay,.qfy-column-2-5a1557f14fcfd92894 > .column_inner> .background-media{width:100% !important;left:0 !important;right:auto !important;}}</style><div   data-animaleinbegin="bottom-in-view" data-animalename="qfyfadeInUp"  data-duration="" data-delay="0.1"  class=" qfy-column-3-5a1557f1506db716826 qfy-column-inner  vc_span_class  vc_span8  text-Default small-screen-Default notfullrow"  data-dw="2/3" data-fixheight="" ><div style="margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;border-radius:0px;;position:relative;;" class="column_inner " ><div class=" background-overlay grid-overlay-0" style="background-color:rgba(16,59,91,0.9);width:100%;"></div><div class="column_containter" style="z-index:3;position:relative;" >
+	<div  m-padding="0px 0px 0px 0px"  p-padding="0 0 0 0" css_animation_delay="0" qfyuuid="qfy_column_text_tzkdw" data-anitime='0.7'  class="qfy-element qfy-text qfy-text-43375 wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_right-to-left mobile_fontsize16" style="position: relative;;;line-height:2em;;background-position:left top;background-repeat: no-repeat;;margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;border-radius:0px;">
+		<div class="wpb_wrapper">
+			<div><span style="font-size:14px;"><span style="color: rgb(255, 240, 245);">我吃苦耐劳，工作认真，能很快适应新环境，处事冷静，学习能力较强，对自己要求严格，条理性强，善于整理，具有良好的团队精神和较强的组织能力，具有扎实的会计专业知识和较强的实务操作技能，能熟练地运用用友、金碟财务软件，熟练各类办公软件，拥有《会计从业资格证》、《中级电算化合格证书》、《全国计算机一级证》。专业能力：掌握了商务文秘的基本知识，求职简历网如档案学、文秘写作、办公自动化、公共关系学、国际贸易、形体训练、管理学。<span style="font-size:14px;"><span style="color: rgb(255, 240, 245);">吃苦耐劳，工作认真，能很快适应新环境，处事冷静，学习能力较强，对自己要求严格，条理性强，善于整理，具有良好的团队精神和较强的组织能力，具有扎实的会计专业知识和较强的实务操作技能，能熟练地运用用友、金碟财务软件，熟练各类办公软件，拥有《会计从业资格证》、《中级电算化合格证书》、《全国计算机一级证》。</span></span></span></span><span style="font-size:14px;"><span style="color: rgb(255, 240, 245);"></span></span></div>
+
+		</div> 
+	</div> </div></div></div><style class="column_class qfy_style_class">@media only screen and (min-width: 992px){.qfy-column-3-5a1557f1506db716826 > .column_inner {padding-left:40px;padding-right:40px;padding-top:40px;padding-bottom:40px;}.wpb_row .vc_span_class.qfy-column-3-5a1557f1506db716826 {width:56.9%;};}@media only screen and (max-width: 992px){.qfy-column-3-5a1557f1506db716826 > .column_inner{margin:0 auto 0 !important;padding-left:20px;padding-right:20px;padding-top:20px;padding-bottom:20px;}.display_entire .wpb_row .vc_span_class.qfy-column-3-5a1557f1506db716826 {width:56.9%;}.qfy-column-3-5a1557f1506db716826 > .column_inner> .background-overlay,.qfy-column-3-5a1557f1506db716826 > .column_inner> .background-media{width:100% !important;left:0 !important;right:auto !important;}}</style><div class="wf-mobile-hidden qfy-clumn-clear" style="clear:both;"></div>        </div>
+    </div>
+	
+</section><section  data-fixheight="" class="qfy-row-3-5a1557f150bd8653296 section     no  section-text-no-shadow section-inner-no-shadow section-normal"  id="bit_vi6gg"  style='margin-bottom:0;border-radius:0px;color:#8d9095;' >
+    <style class="row_class qfy_style_class">
+	@media only screen and (min-width: 992px){
+		section.section.qfy-row-3-5a1557f150bd8653296{padding-left:0;padding-right:0;padding-top:50px;padding-bottom:50px;margin-top:0;}}
+	   	
+	   @media only screen and (max-width: 992px){
+		.bit-html section.section.qfy-row-3-5a1557f150bd8653296{padding-left:15px;padding-right:15px;padding-top:20px;padding-bottom:20px;margin-top:0;}}
+	</style>
+    	    <div class="section-background-overlay background-overlay grid-overlay-0 " style="background-color: #ffffff;"></div>
+
+    <div class="container">
+        <div class="row wpb_row">
+            <div   data-animaleinbegin="bottom-in-view" data-animalename="qfyfadeInUp"  data-duration="" data-delay=""  class=" qfy-column-4-5a1557f150e7293000 qfy-column-inner  vc_span12  text-default small-screen-undefined fullrow"  data-dw="1/1" data-fixheight="" ><div style=";position:relative;;" class="column_inner " ><div class=" background-overlay grid-overlay-" style="background-color:transparent;width:100%;"></div><div class="column_containter" style="z-index:3;position:relative;" >
+	<div id="vc_header_5a1557f1510e8407"  m-padding="0px 0px 0px 0px"  p-padding="0 0 0 0" css_animation_delay="0" qfyuuid="qfy_header_kay4q" data-anitime='0.7'  class="qfy-element minheigh1px wpb_text_column wpb_content_element " style="position: relative;;;background-repeat: no-repeat;;margin-top:20px;margin-bottom:20px;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;"><style>@media only screen and (max-width: 760px) {#vc_header_5a1557f1510e8407 .header_title{font-size:30px !important;}}@media only screen and (max-width: 760px) {#vc_header_5a1557f1510e8407 .header_subtitle{font-size:14px !important;}}</style>
+		<div class="wpb_wrapper">
+			<H1 class="qfy_title center mobilecenter"><div class="qfy_title_inner" style="display:inline-block;position:relative;max-width:100%;"><div class="header_title" style="font-size:50px;font-weight:normal;font-style:normal;color:#000;">教育和培训</div><span class="line-abs bottom hcenter" style="overflow:hidden;border-bottom-style:solid;width:100px;max-width:100px;border-bottom-width:2px;border-bottom-color:#0c344e;margin-top:10px;" ></span></div><style></style><div class="button_wrapper" style="display:none;"><div class="button " style="display:inline-block;max-width:100%;text-align:center; font-size:12px;"></div></div><span  style="clear:both;"></span></H1>
+		</div> 
+	</div> </div></div></div><style class="column_class qfy_style_class">@media only screen and (min-width: 992px){.qfy-column-4-5a1557f150e7293000 > .column_inner {padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;}.wpb_row .vc_span_class.qfy-column-4-5a1557f150e7293000 {};}@media only screen and (max-width: 992px){.qfy-column-4-5a1557f150e7293000 > .column_inner{margin:0 auto 0 !important;padding-left:0;padding-right:0;padding-top:;padding-bottom:;}.display_entire .wpb_row .vc_span_class.qfy-column-4-5a1557f150e7293000 {}.qfy-column-4-5a1557f150e7293000 > .column_inner> .background-overlay,.qfy-column-4-5a1557f150e7293000 > .column_inner> .background-media{width:100% !important;left:0 !important;right:auto !important;}}</style>        </div>
+    </div>
+	
+</section><section  data-fixheight="" class="qfy-row-4-5a1557f151460386373 section     no  section-text-no-shadow section-inner-no-shadow section-normal"  id="bit_kzrvw"  style='margin-bottom:0;border-radius:0px;color:#8d9095;' >
+    <style class="row_class qfy_style_class">
+	@media only screen and (min-width: 992px){
+		section.section.qfy-row-4-5a1557f151460386373{padding-left:0;padding-right:0;padding-top:20px;padding-bottom:50px;margin-top:0;}section.section.qfy-row-4-5a1557f151460386373 > .container{max-width:1280px;margin:0 auto;}}
+	   	
+	   @media only screen and (max-width: 992px){
+		.bit-html section.section.qfy-row-4-5a1557f151460386373{padding-left:15px;padding-right:15px;padding-top:20px;padding-bottom:50px;margin-top:0;}}
+	</style>
+    	    <div class="section-background-overlay background-overlay grid-overlay-0 " style="background-color: #ffffff;"></div>
+
+    <div class="container">
+        <div class="row wpb_row">
+            <div   data-animaleinbegin="bottom-in-view" data-animalename="qfyfadeInUp"  data-duration="" data-delay=""  class=" qfy-column-5-5a1557f1516a6279202 qfy-column-inner  vc_span_class  vc_span4  text-default small-screen-default notfullrow"  data-dw="1/3" data-fixheight="" ><div style=";position:relative;;" class="column_inner " ><div class=" background-overlay grid-overlay-" style="background-color:transparent;width:100%;"></div><div class="column_containter" style="z-index:3;position:relative;" >
+	<div  m-padding="10px 0px 0px 0px"  p-padding="10px 0 0px 0" css_animation_delay="0" qfyuuid="0"  class="qfy-element qfy-text qfy-text-24997 wpb_text_column wpb_content_element " style="position: relative;;;line-height:1.5em;;background-repeat: repeat-y;;margin-top:10px;margin-bottom:0;padding-top:10px;padding-right:0;padding-left:0;">
+		<div class="wpb_wrapper">
+			<div>
+<div style="text-align: center;"><span style="color:#333333;"><span style="font-size: 18px;"><span style="font-family: 微软雅黑;"><span style="font-size: 22px;"><span style="font-family: 微软雅黑;">教育经历</span></span></span></span></span></div>
+
+<div style="text-align: center;"><span style="color:#333333;"><span style="font-size: 16px;"></span></span></div>
+</div>
+
+		</div> 
+	</div> 
+	<div  m-padding="10px 0px 0px 0px"  p-padding="10px 0 0px 0" css_animation_delay="0" qfyuuid="0"  class="qfy-element qfy-text qfy-text-66974 wpb_text_column wpb_content_element " style="position: relative;;;line-height:1.5em;;background-repeat: repeat-y;;margin-top:0;margin-bottom:0;padding-top:10px;padding-right:0;padding-left:0;">
+		<div class="wpb_wrapper">
+			<div style="text-align: center;"><img src="http://static.qifeiye.com/caches/0482949eac6b5cb4703326ef21f64e6a/aHR0cDovLzU1MTNlOGVkOGZjYTkudDczLnFpZmVpeWUuY29tL3FmeS1jb250ZW50L3VwbG9hZHMvMjAxNC8wNi9lY2NiYzg3ZTRiNWNlMmZlMjgzMDhmZDlmMmE3YmFmMy5wbmc_p_p100_p_2FYXR0YWNobWVudF9pZD04NDMy.png"></div>
+
+		</div> 
+	</div> </div></div></div><style class="column_class qfy_style_class">@media only screen and (min-width: 992px){.qfy-column-5-5a1557f1516a6279202 > .column_inner {padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;}.wpb_row .vc_span_class.qfy-column-5-5a1557f1516a6279202 {};}@media only screen and (max-width: 992px){.qfy-column-5-5a1557f1516a6279202 > .column_inner{margin:0 auto 0 !important;padding-left:0;padding-right:0;padding-top:;padding-bottom:;}.display_entire .wpb_row .vc_span_class.qfy-column-5-5a1557f1516a6279202 {}.qfy-column-5-5a1557f1516a6279202 > .column_inner> .background-overlay,.qfy-column-5-5a1557f1516a6279202 > .column_inner> .background-media{width:100% !important;left:0 !important;right:auto !important;}}</style><div   data-animaleinbegin="bottom-in-view" data-animalename="qfyfadeInUp"  data-duration="" data-delay=""  class=" qfy-column-6-5a1557f151c94694690 qfy-column-inner  vc_span_class  vc_span8  text-default small-screen-default notfullrow"  data-dw="2/3" data-fixheight="" ><div style=";position:relative;;" class="column_inner " ><div class=" background-overlay grid-overlay-" style="background-color:transparent;width:100%;"></div><div class="column_containter" style="z-index:3;position:relative;" >
+	<div  m-padding="10px 0px 0px 0px"  p-padding="10px 0 0px 0" css_animation_delay="0" qfyuuid="0"  class="qfy-element qfy-text qfy-text-61413 wpb_text_column wpb_content_element " style="position: relative;;;line-height:1.5em;;background-image: url(http://5513e8ed8fca9.t73.qifeiye.com/qfy-content/uploads/2014/06/c81e728d9d4c2f636f067f89cc14862c.png);background-repeat: repeat-y;;margin-top:10px;margin-bottom:0;padding-top:10px;padding-right:0;padding-left:0;">
+		<div class="wpb_wrapper">
+			<div>
+<div style="margin-left: 40px;"><span style="font-size:18px;"><span style="color: rgb(51, 51, 51);"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="background-color: rgb(237, 85, 101);">&nbsp;</span></span></span></span></span><span style="font-size:18px;"><span style="color: rgb(255, 255, 255);"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="background-color: rgb(237, 85, 101);">2010年/03月&#8211;2013年 /04月&nbsp; </span></span></span></span></span></div>
+
+<div style="margin-left: 40px;">&nbsp;</div>
+
+<div style="margin-left: 40px;">
+<h3>江南大学</h3>
+&nbsp;
+
+<p><span style="color:#696969;">综合学习了会计方面和计算机方面的知识。具体学习的计算机语言有TRUE Basic、汇编语言、C语言、Pascal语言等。</span></p>
+</div>
+</div>
+
+		</div> 
+	</div> 
+	<div  m-padding="10px 0px 0px 0px"  p-padding="10px 0 0px 0" css_animation_delay="0" qfyuuid="0"  class="qfy-element qfy-text qfy-text-50762 wpb_text_column wpb_content_element " style="position: relative;;;line-height:1.5em;;background-image: url(http://5513e8ed8fca9.t73.qifeiye.com/qfy-content/uploads/2014/06/c81e728d9d4c2f636f067f89cc14862c.png);background-repeat: repeat-y;;margin-top:10px;margin-bottom:0;padding-top:10px;padding-right:0;padding-left:0;">
+		<div class="wpb_wrapper">
+			<div>
+<div style="margin-left: 40px;"><span style="font-size:18px;"><span style="color: rgb(51, 51, 51);"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="background-color: rgb(237, 85, 101);">&nbsp;</span></span></span></span></span><span style="font-size:18px;"><span style="color: rgb(255, 255, 255);"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="background-color: rgb(237, 85, 101);">2000年/09月&#8211;2003年 /07月&nbsp; </span></span></span></span></span></div>
+
+<div style="margin-left: 40px;">&nbsp;</div>
+
+<div style="margin-left: 40px;">
+<h3>清华大学</h3>
+&nbsp;
+
+<p><span style="color:#696969;">在清华大学网络学院进修经济学专业（计算机方向）。</span></p>
+</div>
+</div>
+
+		</div> 
+	</div> 
+	<div  m-padding="10px 0px 0px 0px"  p-padding="10px 0 0px 0" css_animation_delay="0" qfyuuid="0"  class="qfy-element qfy-text qfy-text-32293 wpb_text_column wpb_content_element " style="position: relative;;;line-height:1.5em;;background-image: url(http://5513e8ed8fca9.t73.qifeiye.com/qfy-content/uploads/2014/06/c81e728d9d4c2f636f067f89cc14862c.png);background-repeat: repeat-y;;margin-top:10px;margin-bottom:0;padding-top:10px;padding-right:0;padding-left:0;">
+		<div class="wpb_wrapper">
+			<div>
+<div style="margin-left: 40px;"><span style="font-size:18px;"><span style="color: rgb(51, 51, 51);"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="background-color: rgb(237, 85, 101);">&nbsp;</span></span></span></span></span><span style="font-size:18px;"><span style="color: rgb(255, 255, 255);"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="background-color: rgb(237, 85, 101);">培训经历&nbsp; </span></span></span></span></span></div>
+
+<div style="margin-left: 40px;">&nbsp;</div>
+
+<div style="margin-left: 40px;">
+<h3>旭上电子美国总部</h3>
+
+<h4>赴美国软件测试的专业培训</h4>
+
+<p class="edu-result">&nbsp;</p>
+
+<p><span style="color:#696969;">在美国硅谷的Fremont接受软件测试的专业培训。<br />
+包括软件流程控制，QA部门的管理，以及最新的技术等多个方面。</span></p>
+</div>
+</div>
+
+		</div> 
+	</div> </div></div></div><style class="column_class qfy_style_class">@media only screen and (min-width: 992px){.qfy-column-6-5a1557f151c94694690 > .column_inner {padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;}.wpb_row .vc_span_class.qfy-column-6-5a1557f151c94694690 {};}@media only screen and (max-width: 992px){.qfy-column-6-5a1557f151c94694690 > .column_inner{margin:0 auto 0 !important;padding-left:0;padding-right:0;padding-top:;padding-bottom:;}.display_entire .wpb_row .vc_span_class.qfy-column-6-5a1557f151c94694690 {}.qfy-column-6-5a1557f151c94694690 > .column_inner> .background-overlay,.qfy-column-6-5a1557f151c94694690 > .column_inner> .background-media{width:100% !important;left:0 !important;right:auto !important;}}</style><div class="wf-mobile-hidden qfy-clumn-clear" style="clear:both;"></div>        </div>
+    </div>
+	
+</section><section  data-fixheight="" class="qfy-row-5-5a1557f15274d935069 section     no  section-text-no-shadow section-inner-no-shadow section-normal"  id="bit_y7yfk"  style='margin-bottom:0;border-radius:0px;color:#000000;' >
+    <style class="row_class qfy_style_class">
+	@media only screen and (min-width: 992px){
+		section.section.qfy-row-5-5a1557f15274d935069{padding-left:100px;padding-right:100px;padding-top:0;padding-bottom:0;margin-top:0;}}
+	   	
+	   @media only screen and (max-width: 992px){
+		.bit-html section.section.qfy-row-5-5a1557f15274d935069{padding-left:15px;padding-right:15px;padding-top:0;padding-bottom:0;margin-top:0;}}
+	</style>
+    	    <div class="section-background-overlay background-overlay grid-overlay-0 " style="background-color: #ffffff;"></div>
+
+    <div class="container">
+        <div class="row wpb_row">
+            <div   data-animaleinbegin="bottom-in-view" data-animalename="qfyfadeInUp"  data-duration="" data-delay=""  class=" qfy-column-7-5a1557f1528e5812439 qfy-column-inner  vc_span12  text-default small-screen-default fullrow"  data-dw="1/1" data-fixheight="" ><div style=";position:relative;;" class="column_inner " ><div class=" background-overlay grid-overlay-" style="background-color:transparent;width:100%;"></div><div class="column_containter" style="z-index:3;position:relative;" >
+	<div  m-padding="0px 0px 0px 0px"  p-padding="0 0 0 0" css_animation_delay="0" qfyuuid="0"  class="qfy-element qfy-text qfy-text-90046 wpb_text_column wpb_content_element " style="position: relative;;;line-height:1.5em;;background-repeat: no-repeat;;margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;">
+		<div class="wpb_wrapper">
+			<div style="position: relative;">
+<hr bitsize="100" class="bitLine" style="border-width: 1px 0px 0px; border-style: solid; border-color: rgb(215, 202, 225); padding: 0px; width: 100%; height: 1px; float: none; margin: 2px 2px 10px 0px;"></div>
+
+		</div> 
+	</div> </div></div></div><style class="column_class qfy_style_class">@media only screen and (min-width: 992px){.qfy-column-7-5a1557f1528e5812439 > .column_inner {padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;}.wpb_row .vc_span_class.qfy-column-7-5a1557f1528e5812439 {};}@media only screen and (max-width: 992px){.qfy-column-7-5a1557f1528e5812439 > .column_inner{margin:0 auto 0 !important;padding-left:0;padding-right:0;padding-top:;padding-bottom:;}.display_entire .wpb_row .vc_span_class.qfy-column-7-5a1557f1528e5812439 {}.qfy-column-7-5a1557f1528e5812439 > .column_inner> .background-overlay,.qfy-column-7-5a1557f1528e5812439 > .column_inner> .background-media{width:100% !important;left:0 !important;right:auto !important;}}</style>        </div>
+    </div>
+	
+</section><section  data-fixheight="" class="qfy-row-6-5a1557f152d17802056 section     no  section-text-no-shadow section-inner-no-shadow section-normal"  id="bit_nyho2"  style='margin-bottom:0;border-radius:0px;color:#8d9095;' >
+    <style class="row_class qfy_style_class">
+	@media only screen and (min-width: 992px){
+		section.section.qfy-row-6-5a1557f152d17802056{padding-left:0;padding-right:0;padding-top:50px;padding-bottom:50px;margin-top:0;}}
+	   	
+	   @media only screen and (max-width: 992px){
+		.bit-html section.section.qfy-row-6-5a1557f152d17802056{padding-left:15px;padding-right:15px;padding-top:50px;padding-bottom:50px;margin-top:0;}}
+	</style>
+    	    <div class="section-background-overlay background-overlay grid-overlay-0 " style="background-color: #ffffff;"></div>
+
+    <div class="container">
+        <div class="row wpb_row">
+            <div   data-animaleinbegin="bottom-in-view" data-animalename="qfyfadeInUp"  data-duration="" data-delay=""  class=" qfy-column-8-5a1557f152f5b663118 qfy-column-inner  vc_span_class  vc_span4  text-default small-screen-default notfullrow"  data-dw="1/3" data-fixheight="" ><div style=";position:relative;;" class="column_inner " ><div class=" background-overlay grid-overlay-" style="background-color:transparent;width:100%;"></div><div class="column_containter" style="z-index:3;position:relative;" >
+	<div  m-padding="0px 0px 0px 0px"  p-padding="0px 0 0px 0" css_animation_delay="0" qfyuuid="0"  class="qfy-element qfy-text qfy-text-42674 wpb_text_column wpb_content_element " style="position: relative;;;line-height:1.5em;;background-repeat: repeat-y;;margin-bottom:0;padding-right:0;padding-left:0;">
+		<div class="wpb_wrapper">
+			<div>
+<div style="text-align: center;"><span style="color:#333333;"><span style="font-size: 18px;"><span style="font-family: 微软雅黑;"><span style="font-size: 22px;"><span style="font-family: 微软雅黑;">工作经历</span></span></span></span></span></div>
+
+<div style="text-align: center;"><span style="color:#333333;"><span style="font-size: 16px;"></span></span></div>
+</div>
+
+		</div> 
+	</div> 
+	<div  m-padding="0px 0px 0px 0px"  p-padding="0px 0 0px 0" css_animation_delay="0" qfyuuid="0"  class="qfy-element qfy-text qfy-text-95066 wpb_text_column wpb_content_element " style="position: relative;;;line-height:1.5em;;background-repeat: repeat-y;;margin-top:0;margin-bottom:0;padding-right:0;padding-left:0;">
+		<div class="wpb_wrapper">
+			<div style="text-align: center;"><img src="http://static.qifeiye.com/caches/0482949eac6b5cb4703326ef21f64e6a/aHR0cDovLzU1MTNlOGVkOGZjYTkudDczLnFpZmVpeWUuY29tL3FmeS1jb250ZW50L3VwbG9hZHMvMjAxNC8wNi9lY2NiYzg3ZTRiNWNlMmZlMjgzMDhmZDlmMmE3YmFmMy5wbmc_p_p100_p_2FYXR0YWNobWVudF9pZD04NDMy.png"></div>
+
+		</div> 
+	</div> </div></div></div><style class="column_class qfy_style_class">@media only screen and (min-width: 992px){.qfy-column-8-5a1557f152f5b663118 > .column_inner {padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;}.wpb_row .vc_span_class.qfy-column-8-5a1557f152f5b663118 {};}@media only screen and (max-width: 992px){.qfy-column-8-5a1557f152f5b663118 > .column_inner{margin:0 auto 0 !important;padding-left:0;padding-right:0;padding-top:;padding-bottom:;}.display_entire .wpb_row .vc_span_class.qfy-column-8-5a1557f152f5b663118 {}.qfy-column-8-5a1557f152f5b663118 > .column_inner> .background-overlay,.qfy-column-8-5a1557f152f5b663118 > .column_inner> .background-media{width:100% !important;left:0 !important;right:auto !important;}}</style><div   data-animaleinbegin="bottom-in-view" data-animalename="qfyfadeInUp"  data-duration="" data-delay=""  class=" qfy-column-9-5a1557f15351a282885 qfy-column-inner  vc_span_class  vc_span4  text-default small-screen-default notfullrow"  data-dw="1/3" data-fixheight="" ><div style=";position:relative;;" class="column_inner " ><div class=" background-overlay grid-overlay-" style="background-color:transparent;width:100%;"></div><div class="column_containter" style="z-index:3;position:relative;" >
+	<div  m-padding="10px 0px 0px 0px"  p-padding="10px 0 0px 0" css_animation_delay="0" qfyuuid="0"  class="qfy-element qfy-text qfy-text-86794 wpb_text_column wpb_content_element " style="position: relative;;;line-height:1.5em;;background-image: url(http://5513e8ed8fca9.t73.qifeiye.com/qfy-content/uploads/2014/06/c81e728d9d4c2f636f067f89cc14862c.png);background-repeat: repeat-y;;margin-bottom:0;padding-top:10px;padding-right:0;padding-left:0;">
+		<div class="wpb_wrapper">
+			<div>
+<div style="margin-left: 40px;"><span style="font-size:18px;"><span style="color: rgb(51, 51, 51);"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="background-color: rgb(237, 85, 101);">&nbsp;</span></span></span></span></span><span style="font-size:18px;"><span style="color: rgb(51, 51, 51);"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="background-color: rgb(237, 85, 101);"></span></span></span></span></span><span style="font-size:18px;"><span style="color: rgb(255, 255, 255);"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="background-color: rgb(237, 85, 101);">2009年/03月&#8211;2015年 /02月</span></span></span></span></span></div>
+
+<div style="margin-left: 40px;">&nbsp;</div>
+
+<div style="margin-left: 40px;">
+<h3>美国易安信</h3>
+&nbsp;
+
+<p><span style="color:#696969;"><span style="font-size:14px;"><span style="color:#696969;"><span style="font-size:14px;">主要工作职责:1. 负责协助经理设计和完善QA工作流程，以及针对EMC FW和相关产品的品质进行测试计划设计、编写测试用例、测试执行等工作，加强促进与其他部门沟通协同工作的能力。 2. 作为上海EMC硬件部门的第一名FWQA，在日常工作中不仅创建了最初的设计测试用例和测试计划，以最高的品质完成了测试任务，而且在日常工作中负责对新 的部门成员进行相关的QA培训。</span></span></span></span></p>
+</div>
+</div>
+
+		</div> 
+	</div> 
+	<div  m-padding="10px 0px 0px 0px"  p-padding="10px 0 0px 0" css_animation_delay="0" qfyuuid="0"  class="qfy-element qfy-text qfy-text-60448 wpb_text_column wpb_content_element " style="position: relative;;;line-height:1.5em;;background-image: url(http://5513e8ed8fca9.t73.qifeiye.com/qfy-content/uploads/2014/06/c81e728d9d4c2f636f067f89cc14862c.png);background-repeat: repeat-y;;margin-top:10px;margin-bottom:0;padding-top:10px;padding-right:0;padding-left:0;">
+		<div class="wpb_wrapper">
+			<div>
+<div style="margin-left: 40px;"><span style="font-size:18px;"><span style="color: rgb(51, 51, 51);"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="background-color: rgb(237, 85, 101);">&nbsp;</span></span></span></span></span><span style="font-size:18px;"><span style="color: rgb(255, 255, 255);"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="background-color: rgb(237, 85, 101);">2007年/04月&#8211;2008年 /11月&nbsp; </span></span></span></span></span></div>
+
+<div style="margin-left: 40px;">&nbsp;</div>
+
+<div style="margin-left: 40px;">
+<h3>上海旭上电子有限公司<img src="http://static.qifeiye.com/caches/0482949eac6b5cb4703326ef21f64e6a/aHR0cDovLzU1MTNlOGVkOGZjYTkudDczLnFpZmVpeWUuY29tL3FmeS1jb250ZW50L3VwbG9hZHMvMjAxNC8wNi9mZjIzNjRhMGJlM2QyMGU0NmNjNjllZmIzNmFmZTlhNS5naWY_p_p100_p_3D.gif" width="3" border="0" height="1"><span style="color:#676767;"> 
+<b> </b>
+</span></h3>
+&nbsp;
+
+<p><span style="color:#696969;"><span style="font-size:14px;">主要工作职责:1.负责协助经理工作流程的设计和完善，完善中央处理器的测试用例，执行测试任务，加强与其他部门沟通协调。 </span></span></p>
+</div>
+</div>
+
+		</div> 
+	</div> 
+	<div  m-padding="10px 0px 0px 0px"  p-padding="10px 0 0px 0" css_animation_delay="0" qfyuuid="0"  class="qfy-element qfy-text qfy-text-93149 wpb_text_column wpb_content_element " style="position: relative;;;line-height:1.5em;;background-image: url(http://5513e8ed8fca9.t73.qifeiye.com/qfy-content/uploads/2014/06/c81e728d9d4c2f636f067f89cc14862c.png);background-repeat: repeat-y;;margin-top:10px;margin-bottom:0;padding-top:10px;padding-right:0;padding-left:0;">
+		<div class="wpb_wrapper">
+			<div>
+<div style="margin-left: 40px;"><span style="font-size:18px;"><span style="color: rgb(51, 51, 51);"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="background-color: rgb(237, 85, 101);">&nbsp;</span></span></span></span></span><span style="font-size:18px;"><span style="color: rgb(255, 255, 255);"><span style="font-family: 微软雅黑;"><span style="font-family: 微软雅黑;"><span style="background-color: rgb(237, 85, 101);">2001年/07月&#8211;2005年/07月&nbsp; </span></span></span></span></span></div>
+
+<div style="margin-left: 40px;">&nbsp;</div>
+
+<div style="margin-left: 40px;">
+<h3>上海旭上电子有限公司<img src="http://static.qifeiye.com/caches/0482949eac6b5cb4703326ef21f64e6a/aHR0cDovLzU1MTNlOGVkOGZjYTkudDczLnFpZmVpeWUuY29tL3FmeS1jb250ZW50L3VwbG9hZHMvMjAxNC8wNi9mZjIzNjRhMGJlM2QyMGU0NmNjNjllZmIzNmFmZTlhNTEuZ2lm.gif" width="3" border="0" height="1"><span style="color:#676767;"> 
+<b> </b>
+</span></h3>
+&nbsp;
+
+<p><span style="color:#696969;"><span style="font-size:14px;">&nbsp;</span></span><span style="font-size:14px;"><span style="color: rgb(105, 105, 105);">负 责测试计划的制定和测试用例的设计和软件检测，其中包括在各种操作系统上显示芯片的驱动程序、Bios以及各种相关辅助工具等的检测。检测的范围主要包括 高清视频、多媒体、3D加速（D3D、OPENGL支持）、2D加速、GDI、多显示输出、Video BIOS等方面。在该公司工作期间，参与了SavageIX/MX、Super savage、Alpha Chrome、DeltaChrome、Metro等研发工作。 </span></span></p>
+</div>
+</div>
+
+		</div> 
+	</div> </div></div></div><style class="column_class qfy_style_class">@media only screen and (min-width: 992px){.qfy-column-9-5a1557f15351a282885 > .column_inner {padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;}.wpb_row .vc_span_class.qfy-column-9-5a1557f15351a282885 {};}@media only screen and (max-width: 992px){.qfy-column-9-5a1557f15351a282885 > .column_inner{margin:0 auto 0 !important;padding-left:0;padding-right:0;padding-top:;padding-bottom:;}.display_entire .wpb_row .vc_span_class.qfy-column-9-5a1557f15351a282885 {}.qfy-column-9-5a1557f15351a282885 > .column_inner> .background-overlay,.qfy-column-9-5a1557f15351a282885 > .column_inner> .background-media{width:100% !important;left:0 !important;right:auto !important;}}</style><div   data-animaleinbegin="bottom-in-view" data-animalename="qfyfadeInUp"  data-duration="" data-delay=""  class=" qfy-column-10-5a1557f153e3f508721 qfy-column-inner  vc_span_class  vc_span4  text-default small-screen-default notfullrow"  data-dw="1/3" data-fixheight="" ><div style=";position:relative;;" class="column_inner " ><div class=" background-overlay grid-overlay-" style="background-color:transparent;width:100%;"></div><div class="column_containter" style="z-index:3;position:relative;" ></div></div></div><style class="column_class qfy_style_class">@media only screen and (min-width: 992px){.qfy-column-10-5a1557f153e3f508721 > .column_inner {padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;}.wpb_row .vc_span_class.qfy-column-10-5a1557f153e3f508721 {};}@media only screen and (max-width: 992px){.qfy-column-10-5a1557f153e3f508721 > .column_inner{margin:0 auto 0 !important;padding-left:0;padding-right:0;padding-top:;padding-bottom:;}.display_entire .wpb_row .vc_span_class.qfy-column-10-5a1557f153e3f508721 {}.qfy-column-10-5a1557f153e3f508721 > .column_inner> .background-overlay,.qfy-column-10-5a1557f153e3f508721 > .column_inner> .background-media{width:100% !important;left:0 !important;right:auto !important;}}</style><div class="wf-mobile-hidden qfy-clumn-clear" style="clear:both;"></div>        </div>
+    </div>
+	
+</section><section  data-fixheight="" class="qfy-row-7-5a1557f154089720 section     no  section-text-no-shadow section-inner-no-shadow section-normal"  id="bit_3n4de"  style='margin-bottom:0;border-radius:0px;color:#000000;' >
+    <style class="row_class qfy_style_class">
+	@media only screen and (min-width: 992px){
+		section.section.qfy-row-7-5a1557f154089720{padding-left:40px;padding-right:40px;padding-top:0;padding-bottom:0;margin-top:0;}}
+	   	
+	   @media only screen and (max-width: 992px){
+		.bit-html section.section.qfy-row-7-5a1557f154089720{padding-left:15px;padding-right:15px;padding-top:0;padding-bottom:0;margin-top:0;}}
+	</style>
+    	    <div class="section-background-overlay background-overlay grid-overlay-0 " style="background-color: #ffffff;"></div>
+
+    <div class="container">
+        <div class="row wpb_row">
+            <div   data-animaleinbegin="bottom-in-view" data-animalename="qfyfadeInUp"  data-duration="" data-delay=""  class=" qfy-column-11-5a1557f154236199641 qfy-column-inner  vc_span12  text-default small-screen-default fullrow"  data-dw="1/1" data-fixheight="" ><div style=";position:relative;;" class="column_inner " ><div class=" background-overlay grid-overlay-" style="background-color:transparent;width:100%;"></div><div class="column_containter" style="z-index:3;position:relative;" >
+	<div  m-padding="0px 0px 0px 0px"  p-padding="0 0 0 0" css_animation_delay="0" qfyuuid="0"  class="qfy-element qfy-text qfy-text-60162 wpb_text_column wpb_content_element " style="position: relative;;;line-height:1.5em;;background-repeat: no-repeat;;margin-top:10px;margin-bottom:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;">
+		<div class="wpb_wrapper">
+			<div style="position: relative;">
+<hr bitsize="100" class="bitLine" style="border-width: 1px 0px 0px; border-style: solid; border-color: rgb(215, 202, 225); padding: 0px; width: 100%; height: 1px; float: none; margin: 2px 2px 10px 0px;"></div>
+
+		</div> 
+	</div> </div></div></div><style class="column_class qfy_style_class">@media only screen and (min-width: 992px){.qfy-column-11-5a1557f154236199641 > .column_inner {padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;}.wpb_row .vc_span_class.qfy-column-11-5a1557f154236199641 {};}@media only screen and (max-width: 992px){.qfy-column-11-5a1557f154236199641 > .column_inner{margin:0 auto 0 !important;padding-left:0;padding-right:0;padding-top:;padding-bottom:;}.display_entire .wpb_row .vc_span_class.qfy-column-11-5a1557f154236199641 {}.qfy-column-11-5a1557f154236199641 > .column_inner> .background-overlay,.qfy-column-11-5a1557f154236199641 > .column_inner> .background-media{width:100% !important;left:0 !important;right:auto !important;}}</style>        </div>
+    </div>
+	
+</section><section  data-fixheight="" class="qfy-row-8-5a1557f154684841420 section     no  section-text-no-shadow section-inner-no-shadow section-normal"  id="bit_vol42"  style='margin-bottom:0;border-radius:0px;color:#8d9095;' >
+    <style class="row_class qfy_style_class">
+	@media only screen and (min-width: 992px){
+		section.section.qfy-row-8-5a1557f154684841420{padding-left:0;padding-right:0;padding-top:50px;padding-bottom:100px;margin-top:0;}}
+	   	
+	   @media only screen and (max-width: 992px){
+		.bit-html section.section.qfy-row-8-5a1557f154684841420{padding-left:15px;padding-right:15px;padding-top:50px;padding-bottom:100px;margin-top:0;}}
+	</style>
+    	    <div class="section-background-overlay background-overlay grid-overlay-0 " style="background-color: #ffffff;"></div>
+
+    <div class="container">
+        <div class="row wpb_row">
+            <div   data-animaleinbegin="bottom-in-view" data-animalename="qfyfadeInUp"  data-duration="" data-delay=""  class=" qfy-column-12-5a1557f1548db414706 qfy-column-inner  vc_span_class  vc_span4  text-default small-screen-default notfullrow"  data-dw="1/3" data-fixheight="" ><div style=";position:relative;;" class="column_inner " ><div class=" background-overlay grid-overlay-" style="background-color:transparent;width:100%;"></div><div class="column_containter" style="z-index:3;position:relative;" >
+	<div  m-padding="10px 0px 0px 0px"  p-padding="10px 0 0px 0" css_animation_delay="0" qfyuuid="0"  class="qfy-element qfy-text qfy-text-18215 wpb_text_column wpb_content_element " style="position: relative;;;line-height:1.5em;;background-repeat: repeat-y;;margin-top:10px;margin-bottom:0;padding-top:10px;padding-right:0;padding-left:0;">
+		<div class="wpb_wrapper">
+			<div>
+<div style="text-align: center;"><span style="color:#333333;"><span style="font-size: 18px;"><span style="font-family: 微软雅黑;"><span style="font-size: 22px;"><span style="font-family: 微软雅黑;">知识技能</span></span></span></span></span></div>
+
+<div style="text-align: center;"><span style="color:#333333;"><span style="font-size: 16px;"></span></span></div>
+</div>
+
+		</div> 
+	</div> 
+	<div  m-padding="10px 0px 0px 0px"  p-padding="10px 0 0px 0" css_animation_delay="0" qfyuuid="0"  class="qfy-element qfy-text qfy-text-55825 wpb_text_column wpb_content_element " style="position: relative;;;line-height:1.5em;;background-repeat: repeat-y;;margin-top:0;margin-bottom:0;padding-top:10px;padding-right:0;padding-left:0;">
+		<div class="wpb_wrapper">
+			<div style="text-align: center;"><img src="http://static.qifeiye.com/caches/0482949eac6b5cb4703326ef21f64e6a/aHR0cDovLzU1MTNlOGVkOGZjYTkudDczLnFpZmVpeWUuY29tL3FmeS1jb250ZW50L3VwbG9hZHMvMjAxNC8wNi9lY2NiYzg3ZTRiNWNlMmZlMjgzMDhmZDlmMmE3YmFmMy5wbmc_p_p100_p_2FYXR0YWNobWVudF9pZD04NDMy.png"></div>
+
+		</div> 
+	</div> </div></div></div><style class="column_class qfy_style_class">@media only screen and (min-width: 992px){.qfy-column-12-5a1557f1548db414706 > .column_inner {padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;}.wpb_row .vc_span_class.qfy-column-12-5a1557f1548db414706 {};}@media only screen and (max-width: 992px){.qfy-column-12-5a1557f1548db414706 > .column_inner{margin:0 auto 0 !important;padding-left:0;padding-right:0;padding-top:;padding-bottom:;}.display_entire .wpb_row .vc_span_class.qfy-column-12-5a1557f1548db414706 {}.qfy-column-12-5a1557f1548db414706 > .column_inner> .background-overlay,.qfy-column-12-5a1557f1548db414706 > .column_inner> .background-media{width:100% !important;left:0 !important;right:auto !important;}}</style><div   data-animaleinbegin="bottom-in-view" data-animalename="qfyfadeInUp"  data-duration="" data-delay=""  class=" qfy-column-13-5a1557f154ea6848450 qfy-column-inner  vc_span_class  vc_span8  text-default small-screen-default notfullrow"  data-dw="2/3" data-fixheight="" ><div style=";position:relative;;" class="column_inner " ><div class=" background-overlay grid-overlay-" style="background-color:transparent;width:100%;"></div><div class="column_containter" style="z-index:3;position:relative;" >
+	<div  m-padding="10px 0px 0px 0px"  p-padding="10px 100px 0px 0" css_animation_delay="0" qfyuuid="0"  class="qfy-element qfy-text qfy-text-83545 wpb_text_column wpb_content_element " style="position: relative;;;line-height:1.5em;;background-repeat: repeat-y;;margin-top:10px;margin-bottom:0;padding-top:10px;padding-right:100px;padding-left:0;">
+		<div class="wpb_wrapper">
+			<div><span style="font-size:12px;"><span style="font-size:14px;"><span style="color: rgb(105, 105, 105);"><span style="font-family: 微软雅黑;">熟悉掌握TCP/IP、SNMP/SMTP协议，拥有扎实的Internet网络的基本知识，熟练掌握网络系统，体系架构；熟悉软件测试理论和方法，熟练系统测试用例的编写，熟悉软件测试过程，并能够分析测试中发现的问题，较强的逻辑分析和解决问题的能力并对软件测试具有浓厚的兴趣。掌握测试管理软件，如JIRA.Bugfree；熟悉自动化测试工具；独立搭建测试环境；熟悉SQL-Server的基本操作，掌握Oracle；熟悉SHELL脚本语言，具有C#/HTML语言基础，ant构建工具等，CMMI-过程集成与产品改进指南。</span></span></span></span></div>
+
+		</div> 
+	</div> 
+	<div  m-padding="50px 0px 0px 0px"  p-padding="50px 0 0px 0" css_animation_delay="0" qfyuuid="0"  class="qfy-element qfy-text qfy-text-65125 wpb_text_column wpb_content_element " style="position: relative;;;line-height:1.5em;;background-repeat: repeat-y;;margin-top:0;margin-bottom:0;padding-top:50px;padding-right:0;padding-left:0;">
+		<div class="wpb_wrapper">
+			<div>PHOTOSHOP</div>
+
+		</div> 
+	</div> <div class="progressbarparent qfy-element "  m-padding="0px 0px 0px 0px"  p-padding="0px 220px 0px 0px" css_animation_delay="0" qfyuuid="0"  style="padding-right:220px;"><div id="progressbar" style="background-color: #bdc3c7;border-radius: 5px;padding: 1px;">
+        		<div style="background-color: #1abc9c;width: 60%; height: 30px;border-radius: 5px;;text-align:center;line-height:30px;">
+        		    
+        		</div>
+		    </div>
+		</div>
+	<div  m-padding="50px 0px 0px 0px"  p-padding="50px 0 0px 0" css_animation_delay="0" qfyuuid="0"  class="qfy-element qfy-text qfy-text-25522 wpb_text_column wpb_content_element " style="position: relative;;;line-height:1.5em;;background-repeat: repeat-y;;margin-top:0;margin-bottom:0;padding-top:50px;padding-right:0;padding-left:0;">
+		<div class="wpb_wrapper">
+			<div>ILLUSTRATOR</div>
+
+		</div> 
+	</div> <div class="progressbarparent qfy-element "  m-padding="0px 0px 0px 0px"  p-padding="0px 220px 0px 0px" css_animation_delay="0" qfyuuid="0"  style="padding-right:220px;"><div id="progressbar" style="background-color: #bdc3c7;border-radius: 5px;padding: 1px;">
+        		<div style="background-color: #e74c3c;width: 50%; height: 30px;border-radius: 5px;;text-align:center;line-height:30px;">
+        		    
+        		</div>
+		    </div>
+		</div>
+	<div  m-padding="50px 0px 0px 0px"  p-padding="50px 0 0px 0" css_animation_delay="0" qfyuuid="0"  class="qfy-element qfy-text qfy-text-22182 wpb_text_column wpb_content_element " style="position: relative;;;line-height:1.5em;;background-repeat: repeat-y;;margin-top:0;margin-bottom:0;padding-top:50px;padding-right:0;padding-left:0;">
+		<div class="wpb_wrapper">
+			<div>WORDPRESS</div>
+
+		</div> 
+	</div> <div class="progressbarparent qfy-element "  m-padding="0px 0px 0px 0px"  p-padding="0px 220px 0px 0px" css_animation_delay="0" qfyuuid="0"  style="padding-right:220px;"><div id="progressbar" style="background-color: #bdc3c7;border-radius: 5px;padding: 1px;">
+        		<div style="background-color: #34495e;width: 40%; height: 30px;border-radius: 5px;;text-align:center;line-height:30px;">
+        		    
+        		</div>
+		    </div>
+		</div>
+	<div  m-padding="50px 0px 0px 0px"  p-padding="50px 0 0px 0" css_animation_delay="0" qfyuuid="0"  class="qfy-element qfy-text qfy-text-93045 wpb_text_column wpb_content_element " style="position: relative;;;line-height:1.5em;;background-repeat: repeat-y;;margin-top:0;margin-bottom:0;padding-top:50px;padding-right:0;padding-left:0;">
+		<div class="wpb_wrapper">
+			<div>CSS</div>
+
+		</div> 
+	</div> <div class="progressbarparent qfy-element "  m-padding="0px 0px 0px 0px"  p-padding="0px 220px 0px 0px" css_animation_delay="0" qfyuuid="0"  style="padding-right:220px;"><div id="progressbar" style="background-color: #bdc3c7;border-radius: 5px;padding: 1px;">
+        		<div style="background-color: #3498db;width: 90%; height: 30px;border-radius: 5px;;text-align:center;line-height:30px;">
+        		    
+        		</div>
+		    </div>
+		</div>
+	<div  m-padding="50px 0px 0px 0px"  p-padding="50px 0 0px 0" css_animation_delay="0" qfyuuid="0"  class="qfy-element qfy-text qfy-text-50518 wpb_text_column wpb_content_element " style="position: relative;;;line-height:1.5em;;background-repeat: repeat-y;;margin-top:0;margin-bottom:0;padding-top:50px;padding-right:0;padding-left:0;">
+		<div class="wpb_wrapper">
+			<div>HTML5</div>
+
+		</div> 
+	</div> <div class="progressbarparent qfy-element "  m-padding="0px 0px 0px 0px"  p-padding="0px 220px 0px 0px" css_animation_delay="0" qfyuuid="0"  style="padding-right:220px;"><div id="progressbar" style="background-color: #bdc3c7;border-radius: 5px;padding: 1px;">
+        		<div style="background-color: #d35400;width: 80%; height: 30px;border-radius: 5px;;text-align:center;line-height:30px;">
+        		    
+        		</div>
+		    </div>
+		</div>
+	<div  m-padding="50px 0px 0px 0px"  p-padding="50px 0 0px 0" css_animation_delay="0" qfyuuid="0"  class="qfy-element qfy-text qfy-text-89156 wpb_text_column wpb_content_element " style="position: relative;;;line-height:1.5em;;background-repeat: repeat-y;;margin-top:0;margin-bottom:0;padding-top:50px;padding-right:0;padding-left:0;">
+		<div class="wpb_wrapper">
+			<div>JQUERY</div>
+
+		</div> 
+	</div> <div class="progressbarparent qfy-element "  m-padding="0px 0px 0px 0px"  p-padding="0px 220px 0px 0px" css_animation_delay="0" qfyuuid="0"  style="padding-right:220px;"><div id="progressbar" style="background-color: #bdc3c7;border-radius: 5px;padding: 1px;">
+        		<div style="background-color: #9b59b6;width: 40%; height: 30px;border-radius: 5px;;text-align:center;line-height:30px;">
+        		    
+        		</div>
+		    </div>
+		</div></div></div></div><style class="column_class qfy_style_class">@media only screen and (min-width: 992px){.qfy-column-13-5a1557f154ea6848450 > .column_inner {padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;}.wpb_row .vc_span_class.qfy-column-13-5a1557f154ea6848450 {};}@media only screen and (max-width: 992px){.qfy-column-13-5a1557f154ea6848450 > .column_inner{margin:0 auto 0 !important;padding-left:0;padding-right:0;padding-top:;padding-bottom:;}.display_entire .wpb_row .vc_span_class.qfy-column-13-5a1557f154ea6848450 {}.qfy-column-13-5a1557f154ea6848450 > .column_inner> .background-overlay,.qfy-column-13-5a1557f154ea6848450 > .column_inner> .background-media{width:100% !important;left:0 !important;right:auto !important;}}</style><div class="wf-mobile-hidden qfy-clumn-clear" style="clear:both;"></div>        </div>
+    </div>
+	
+</section><section  data-fixheight="" class="qfy-row-9-5a1557f15612a625139 section     no  section-text-no-shadow section-inner-no-shadow section-normal"  id="bit_b66lr"  style='margin-bottom:0;border-radius:0px;color:#000000;' >
+    <style class="row_class qfy_style_class">
+	@media only screen and (min-width: 992px){
+		section.section.qfy-row-9-5a1557f15612a625139{padding-left:0;padding-right:0;padding-top:80px;padding-bottom:100px;margin-top:0;}}
+	   	
+	   @media only screen and (max-width: 992px){
+		.bit-html section.section.qfy-row-9-5a1557f15612a625139{padding-left:15px;padding-right:15px;padding-top:80px;padding-bottom:100px;margin-top:0;}}
+	</style>
+            <div data-time="" data-imagebgs="" class="background-media  " backgroundSize='true'  style="background-image: url('http://static.qifeiye.com/caches/0482949eac6b5cb4703326ef21f64e6a/aHR0cDovLzU1MTNlOGVkOGZjYTkudDczLnFpZmVpeWUuY29tL3FmeS1jb250ZW50L3VwbG9hZHMvMjAxNC8wNi9lY2NiYzg3ZTRiNWNlMmZlMjgzMDhmZDlmMmE3YmFmMy5qcGc_p_p100_p_3D.jpg'); background-repeat:no-repeat; background-size:cover; background-attachment:fixed; background-position:0 0%;">
+                    </div>
+		
+    	    <div class="section-background-overlay background-overlay grid-overlay-0 " style="background-color: transparent;"></div>
+
+    <div class="container">
+        <div class="row wpb_row">
+            <div   data-animaleinbegin="bottom-in-view" data-animalename="qfyfadeInUp"  data-duration="" data-delay=""  class=" qfy-column-14-5a1557f15635a119298 qfy-column-inner  vc_span12  text-default small-screen-default fullrow"  data-dw="1/1" data-fixheight="" ><div style=";position:relative;;" class="column_inner " ><div class=" background-overlay grid-overlay-" style="background-color:transparent;width:100%;"></div><div class="column_containter" style="z-index:3;position:relative;" >
+	<div  m-padding="0px 0px 50px 0px"  p-padding="0px 0px 50px 0px" css_animation_delay="0" qfyuuid="0"  class="qfy-element qfy-text qfy-text-39917 wpb_text_column wpb_content_element " style="position: relative;;;line-height:1.5em;;background-repeat: no-repeat;;padding-bottom:50px;">
+		<div class="wpb_wrapper">
+			<div style="text-align: center;">
+<h1 class="section-title wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;"><span style="font-family:宋体;"><span style="font-size: 36px;"><span style="color: rgb(255, 255, 255);">个人作品</span></span></span></h1>
+</div>
+
+		</div> 
+	</div> </div></div></div><style class="column_class qfy_style_class">@media only screen and (min-width: 992px){.qfy-column-14-5a1557f15635a119298 > .column_inner {padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;}.wpb_row .vc_span_class.qfy-column-14-5a1557f15635a119298 {};}@media only screen and (max-width: 992px){.qfy-column-14-5a1557f15635a119298 > .column_inner{margin:0 auto 0 !important;padding-left:0;padding-right:0;padding-top:;padding-bottom:;}.display_entire .wpb_row .vc_span_class.qfy-column-14-5a1557f15635a119298 {}.qfy-column-14-5a1557f15635a119298 > .column_inner> .background-overlay,.qfy-column-14-5a1557f15635a119298 > .column_inner> .background-media{width:100% !important;left:0 !important;right:auto !important;}}</style><div   data-animaleinbegin="bottom-in-view" data-animalename="qfyfadeInUp"  data-duration="" data-delay=""  class=" qfy-column-15-5a1557f1566ca948064 qfy-column-inner  vc_span_class  vc_span3  text-default small-screen-default notfullrow"  data-dw="1/4" data-fixheight="" ><div style=";position:relative;;" class="column_inner " ><div class=" background-overlay grid-overlay-" style="background-color:transparent;width:100%;"></div><div class="column_containter" style="z-index:3;position:relative;" >
+	<div id="vc_img_5a1557f156b8f54" style="width:100%;padding:0px;margin:0px;height:100%;clear:both;position:relative;background-repeat: no-repeat;"     m-padding="0px 0px 0px 0px"  p-padding="0px 0px 0px 0px" css_animation_delay="0" qfyuuid="0"  class="qfy-element bitImageControlDiv"><a class="bitImageAhover  " >
+	<div class="bitImageParentDiv wpb_single_image wpb_content_element vc_align_center">
+		<div class="wpb_wrapper"><span></span><img class="front_image   ag_image" src="http://static.qifeiye.com/caches/0482949eac6b5cb4703326ef21f64e6a/aHR0cDovLzU1MTNlOGVkOGZjYTkudDczLnFpZmVpeWUuY29tL3FmeS1jb250ZW50L3VwbG9hZHMvMjAxNC8wNi8wODZhNjhiMTAyNGQxOTQwODkzMGE5YzI0NjI4MDVhOS0yNTB4MjUwLmpwZw_p_p100_p_3D_p_p100_p_3D.jpg" alt="portfolio-8" description=""    data-title="portfolio-8" title="" src-img ="" style='' /></div> 
+	</div> 
+	</div> </a>
+	<div id="vc_img_5a1557f157154849" style="width:100%;padding:0px;margin:0px;height:100%;clear:both;position:relative;padding-top:30px;background-repeat: no-repeat;"     m-padding="30px 0px 0px 0px"  p-padding="30px 0px 0px 0px" css_animation_delay="0" qfyuuid="0"  class="qfy-element bitImageControlDiv"><a class="bitImageAhover  " >
+	<div class="bitImageParentDiv wpb_single_image wpb_content_element vc_align_center">
+		<div class="wpb_wrapper"><span></span><img class="front_image   ag_image" src="http://static.qifeiye.com/caches/0482949eac6b5cb4703326ef21f64e6a/aHR0cDovLzU1MTNlOGVkOGZjYTkudDczLnFpZmVpeWUuY29tL3FmeS1jb250ZW50L3VwbG9hZHMvMjAxNC8wNi8zMTExNDEzMWVkYjJkNTJjN2M1YzhlNmJhMDMwM2YwNC0yNTB4MjUwLmpwZw_p_p100_p_3D_p_p100_p_3D.jpg" alt="portfolio-4" description=""    data-title="portfolio-4" title="" src-img ="" style='' /></div> 
+	</div> 
+	</div> </a></div></div></div><style class="column_class qfy_style_class">@media only screen and (min-width: 992px){.qfy-column-15-5a1557f1566ca948064 > .column_inner {padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;}.wpb_row .vc_span_class.qfy-column-15-5a1557f1566ca948064 {};}@media only screen and (max-width: 992px){.qfy-column-15-5a1557f1566ca948064 > .column_inner{margin:0 auto 0 !important;padding-left:0;padding-right:0;padding-top:;padding-bottom:;}.display_entire .wpb_row .vc_span_class.qfy-column-15-5a1557f1566ca948064 {}.qfy-column-15-5a1557f1566ca948064 > .column_inner> .background-overlay,.qfy-column-15-5a1557f1566ca948064 > .column_inner> .background-media{width:100% !important;left:0 !important;right:auto !important;}}</style><div   data-animaleinbegin="bottom-in-view" data-animalename="qfyfadeInUp"  data-duration="" data-delay=""  class=" qfy-column-16-5a1557f157347874719 qfy-column-inner  vc_span_class  vc_span3  text-default small-screen-default notfullrow"  data-dw="1/4" data-fixheight="" ><div style=";position:relative;;" class="column_inner " ><div class=" background-overlay grid-overlay-" style="background-color:transparent;width:100%;"></div><div class="column_containter" style="z-index:3;position:relative;" >
+	<div id="vc_img_5a1557f1578a9275" style="width:100%;padding:0px;margin:0px;height:100%;clear:both;position:relative;background-repeat: no-repeat;"     m-padding="0px 0px 0px 0px"  p-padding="0px 0px 0px 0px" css_animation_delay="0" qfyuuid="0"  class="qfy-element bitImageControlDiv"><a class="bitImageAhover  " >
+	<div class="bitImageParentDiv wpb_single_image wpb_content_element vc_align_center">
+		<div class="wpb_wrapper"><span></span><img class="front_image   ag_image" src="http://static.qifeiye.com/caches/0482949eac6b5cb4703326ef21f64e6a/aHR0cDovLzU1MTNlOGVkOGZjYTkudDczLnFpZmVpeWUuY29tL3FmeS1jb250ZW50L3VwbG9hZHMvMjAxNC8wNi84YjhjOTA1MWMyODdkZWJjZTZmNTE0MThkNzY1NGE5Yy0yNTB4MjUwLmpwZw_p_p100_p_3D_p_p100_p_3D.jpg" alt="portfolio-7" description=""    data-title="portfolio-7" title="" src-img ="" style='' /></div> 
+	</div> 
+	</div> </a>
+	<div id="vc_img_5a1557f157cec157" style="width:100%;padding:0px;margin:0px;height:100%;clear:both;position:relative;padding-top:30px;background-repeat: no-repeat;"     m-padding="30px 0px 0px 0px"  p-padding="30px 0px 0px 0px" css_animation_delay="0" qfyuuid="0"  class="qfy-element bitImageControlDiv"><a class="bitImageAhover  " >
+	<div class="bitImageParentDiv wpb_single_image wpb_content_element vc_align_center">
+		<div class="wpb_wrapper"><span></span><img class="front_image   ag_image" src="http://static.qifeiye.com/caches/0482949eac6b5cb4703326ef21f64e6a/aHR0cDovLzU1MTNlOGVkOGZjYTkudDczLnFpZmVpeWUuY29tL3FmeS1jb250ZW50L3VwbG9hZHMvMjAxNC8wNi9lNmM1YjJiMTVjZjg4NjUzMGNjYjA1OGE4MjRiMzBmNS0yNTB4MjUwLmpwZw_p_p100_p_3D_p_p100_p_3D.jpg" alt="portfolio-3" description=""    data-title="portfolio-3" title="" src-img ="" style='' /></div> 
+	</div> 
+	</div> </a></div></div></div><style class="column_class qfy_style_class">@media only screen and (min-width: 992px){.qfy-column-16-5a1557f157347874719 > .column_inner {padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;}.wpb_row .vc_span_class.qfy-column-16-5a1557f157347874719 {};}@media only screen and (max-width: 992px){.qfy-column-16-5a1557f157347874719 > .column_inner{margin:0 auto 0 !important;padding-left:0;padding-right:0;padding-top:;padding-bottom:;}.display_entire .wpb_row .vc_span_class.qfy-column-16-5a1557f157347874719 {}.qfy-column-16-5a1557f157347874719 > .column_inner> .background-overlay,.qfy-column-16-5a1557f157347874719 > .column_inner> .background-media{width:100% !important;left:0 !important;right:auto !important;}}</style><div   data-animaleinbegin="bottom-in-view" data-animalename="qfyfadeInUp"  data-duration="" data-delay=""  class=" qfy-column-17-5a1557f157f1d411559 qfy-column-inner  vc_span_class  vc_span3  text-default small-screen-default notfullrow"  data-dw="1/4" data-fixheight="" ><div style=";position:relative;;" class="column_inner " ><div class=" background-overlay grid-overlay-" style="background-color:transparent;width:100%;"></div><div class="column_containter" style="z-index:3;position:relative;" >
+	<div id="vc_img_5a1557f15846089" style="width:100%;padding:0px;margin:0px;height:100%;clear:both;position:relative;background-repeat: no-repeat;"     m-padding="0px 0px 0px 0px"  p-padding="0px 0px 0px 0px" css_animation_delay="0" qfyuuid="0"  class="qfy-element bitImageControlDiv"><a class="bitImageAhover  " >
+	<div class="bitImageParentDiv wpb_single_image wpb_content_element vc_align_center">
+		<div class="wpb_wrapper"><span></span><img class="front_image   ag_image" src="http://static.qifeiye.com/caches/0482949eac6b5cb4703326ef21f64e6a/aHR0cDovLzU1MTNlOGVkOGZjYTkudDczLnFpZmVpeWUuY29tL3FmeS1jb250ZW50L3VwbG9hZHMvMjAxNC8wNi9mNDEwYTJkOWQ3OThlM2I2ODRkYzE1ZGQyYmE4YWM0Yi0yNTB4MjUwLmpwZw_p_p100_p_3D_p_p100_p_3D.jpg" alt="portfolio-6" description=""    data-title="portfolio-6" title="" src-img ="" style='' /></div> 
+	</div> 
+	</div> </a>
+	<div id="vc_img_5a1557f1588d2412" style="width:100%;padding:0px;margin:0px;height:100%;clear:both;position:relative;padding-top:30px;background-repeat: no-repeat;"     m-padding="30px 0px 0px 0px"  p-padding="30px 0px 0px 0px" css_animation_delay="0" qfyuuid="0"  class="qfy-element bitImageControlDiv"><a class="bitImageAhover  " >
+	<div class="bitImageParentDiv wpb_single_image wpb_content_element vc_align_center">
+		<div class="wpb_wrapper"><span></span><img class="front_image   ag_image" src="http://static.qifeiye.com/caches/0482949eac6b5cb4703326ef21f64e6a/aHR0cDovLzU1MTNlOGVkOGZjYTkudDczLnFpZmVpeWUuY29tL3FmeS1jb250ZW50L3VwbG9hZHMvMjAxNC8wNi81ZmFhZmIwMGQ5NjExYTIyYTA4ZGYxYjdkNDVmMDE5Zi0yNTB4MjUwLmpwZw_p_p100_p_3D_p_p100_p_3D.jpg" alt="portfolio-2" description=""    data-title="portfolio-2" title="" src-img ="" style='' /></div> 
+	</div> 
+	</div> </a></div></div></div><style class="column_class qfy_style_class">@media only screen and (min-width: 992px){.qfy-column-17-5a1557f157f1d411559 > .column_inner {padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;}.wpb_row .vc_span_class.qfy-column-17-5a1557f157f1d411559 {};}@media only screen and (max-width: 992px){.qfy-column-17-5a1557f157f1d411559 > .column_inner{margin:0 auto 0 !important;padding-left:0;padding-right:0;padding-top:;padding-bottom:;}.display_entire .wpb_row .vc_span_class.qfy-column-17-5a1557f157f1d411559 {}.qfy-column-17-5a1557f157f1d411559 > .column_inner> .background-overlay,.qfy-column-17-5a1557f157f1d411559 > .column_inner> .background-media{width:100% !important;left:0 !important;right:auto !important;}}</style><div   data-animaleinbegin="bottom-in-view" data-animalename="qfyfadeInUp"  data-duration="" data-delay=""  class=" qfy-column-18-5a1557f158aaa253529 qfy-column-inner  vc_span_class  vc_span3  text-default small-screen-default notfullrow"  data-dw="1/4" data-fixheight="" ><div style=";position:relative;;" class="column_inner " ><div class=" background-overlay grid-overlay-" style="background-color:transparent;width:100%;"></div><div class="column_containter" style="z-index:3;position:relative;" >
+	<div id="vc_img_5a1557f158f7b253" style="width:100%;padding:0px;margin:0px;height:100%;clear:both;position:relative;background-repeat: no-repeat;"     m-padding="0px 0px 0px 0px"  p-padding="0px 0px 0px 0px" css_animation_delay="0" qfyuuid="0"  class="qfy-element bitImageControlDiv"><a class="bitImageAhover  " >
+	<div class="bitImageParentDiv wpb_single_image wpb_content_element vc_align_center">
+		<div class="wpb_wrapper"><span></span><img class="front_image   ag_image" src="http://static.qifeiye.com/caches/0482949eac6b5cb4703326ef21f64e6a/aHR0cDovLzU1MTNlOGVkOGZjYTkudDczLnFpZmVpeWUuY29tL3FmeS1jb250ZW50L3VwbG9hZHMvMjAxNC8wNi8wMzdiMzkwNWQxYTU2NzRhZWZhZGQ0NjdiOWQ3ZmZjMi0yNTB4MjUwLmpwZw_p_p100_p_3D_p_p100_p_3D.jpg" alt="portfolio-5" description=""    data-title="portfolio-5" title="" src-img ="" style='' /></div> 
+	</div> 
+	</div> </a>
+	<div id="vc_img_5a1557f159437436" style="width:100%;padding:0px;margin:0px;height:100%;clear:both;position:relative;padding-top:30px;background-repeat: no-repeat;"     m-padding="30px 0px 0px 0px"  p-padding="30px 0px 0px 0px" css_animation_delay="0" qfyuuid="0"  class="qfy-element bitImageControlDiv"><a class="bitImageAhover  " >
+	<div class="bitImageParentDiv wpb_single_image wpb_content_element vc_align_center">
+		<div class="wpb_wrapper"><span></span><img class="front_image   ag_image" src="http://static.qifeiye.com/caches/0482949eac6b5cb4703326ef21f64e6a/aHR0cDovLzU1MTNlOGVkOGZjYTkudDczLnFpZmVpeWUuY29tL3FmeS1jb250ZW50L3VwbG9hZHMvMjAxNC8wNi82NTRjMjYzYWI0OWRjM2M2Nzc2MDU1YTI5ZjcyZGRhMi0yNTB4MjUwLmpwZw_p_p100_p_3D_p_p100_p_3D.jpg" alt="portfolio-1" description=""    data-title="portfolio-1" title="" src-img ="" style='' /></div> 
+	</div> 
+	</div> </a></div></div></div><style class="column_class qfy_style_class">@media only screen and (min-width: 992px){.qfy-column-18-5a1557f158aaa253529 > .column_inner {padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;}.wpb_row .vc_span_class.qfy-column-18-5a1557f158aaa253529 {};}@media only screen and (max-width: 992px){.qfy-column-18-5a1557f158aaa253529 > .column_inner{margin:0 auto 0 !important;padding-left:0;padding-right:0;padding-top:;padding-bottom:;}.display_entire .wpb_row .vc_span_class.qfy-column-18-5a1557f158aaa253529 {}.qfy-column-18-5a1557f158aaa253529 > .column_inner> .background-overlay,.qfy-column-18-5a1557f158aaa253529 > .column_inner> .background-media{width:100% !important;left:0 !important;right:auto !important;}}</style><div class="wf-mobile-hidden qfy-clumn-clear" style="clear:both;"></div>        </div>
+    </div>
+	
+</section><section  data-fixheight="" class="qfy-row-10-5a1557f159768551888 section     no  section-text-no-shadow section-inner-no-shadow section-normal"  id="bit_qsm8e"  style='margin-bottom:0;border-radius:0px;color:#000000;' >
+    <style class="row_class qfy_style_class">
+	@media only screen and (min-width: 992px){
+		section.section.qfy-row-10-5a1557f159768551888{padding-left:0;padding-right:0;padding-top:80px;padding-bottom:80px;margin-top:0;}}
+	   	
+	   @media only screen and (max-width: 992px){
+		.bit-html section.section.qfy-row-10-5a1557f159768551888{padding-left:15px;padding-right:15px;padding-top:80px;padding-bottom:80px;margin-top:0;}}
+	</style>
+    	    <div class="section-background-overlay background-overlay grid-overlay-0 " style="background-color: #212121;"></div>
+
+    <div class="container">
+        <div class="row wpb_row">
+            <div   data-animaleinbegin="bottom-in-view" data-animalename="qfyfadeInUp"  data-duration="" data-delay=""  class=" qfy-column-19-5a1557f15993d271119 qfy-column-inner  vc_span12  text-default small-screen-default fullrow"  data-dw="1/1" data-fixheight="" ><div style=";position:relative;;" class="column_inner " ><div class=" background-overlay grid-overlay-" style="background-color:transparent;width:100%;"></div><div class="column_containter" style="z-index:3;position:relative;" >
+	<div  m-padding="0px 0px 0px 0px"  p-padding="0px 0px 0px 0px" css_animation_delay="0" qfyuuid="0"  class="qfy-element qfy-text qfy-text-46320 wpb_text_column wpb_content_element " style="position: relative;;;line-height:1.5em;;background-repeat: no-repeat;;">
+		<div class="wpb_wrapper">
+			<table class="nomarl" style="width: 100%;" align="center" border="0" cellpadding="1" cellspacing="1">
+	<tbody>
+		<tr>
+			<td style="width: 30%; text-align: center; vertical-align: middle;"><span style="color:#FFFFFF;"><a class="bitIcon iconLeft" data-tooltip="off" style="null" target="_blank" url-flag="0" url-flagtarget=""> 
+			<b style="color: rgb(250, 250, 250); border: 0px none; font-size: 80px; border-radius: 0px;"> 
+			<i class="glyphicon glyphicon-send" style="margin: 2px 6px; top: 0px;"> <span style="display: none; width: 0px;">&nbsp;</span> </i>
+			</b>
+			<span class="iconText" style="font-size:14px;"></span></a></span></td>
+			<td style="width: 40%; text-align: center; vertical-align: middle; white-space: nowrap;">
+			<div class="seven columns">
+			<h2 class="wow zoomIn animated" style="visibility: visible; animation-name: zoomIn;"><span style="font-size:26px;"><span style="color: rgb(255, 255, 255);">HIRE ME FOR YOUR AWESOME PROJEC</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></h2>
+
+			<p><span style="color:#FFFFFF;">I am available for Freelance projects that depends on your project </span></p>
+
+			<p style="text-align: left;"><span style="color:#FFFFFF;">value. Hire me and get your project done!</span></p>
+			</div>
+			</td>
+			<td style="width: 30%; vertical-align: middle;"><a class="bitButton iconLeft" href="http://5513e8ed8fca9.t73.qifeiye.com/#bit_ocmzg" onmouseout="this.style.backgroundColor='rgb(92, 138, 184)';this.style.borderColor='rgb(74, 111, 148)';" onmouseover="this.style.backgroundColor='rgb(80, 122, 164)';this.style.borderColor='rgb(62, 92, 122)';" style="border-radius: 5px; box-shadow: none; border: medium none; padding: 10px 32px; line-height: 20px; background-color: rgb(92, 138, 184);" url-flag="1" url-flagtarget="">
+			<b style="display: none;"> 
+			<i class="glyphicon glyphicon-star"> <span style="display: none; width: 0px;">&nbsp;</span> </i>
+			</b>
+			<span class="iconText" style="font-family: 黑体; color: rgb(255, 255, 255);">联系我</span></a></td>
+		</tr>
+	</tbody>
+</table>
+
+		</div> 
+	</div> </div></div></div><style class="column_class qfy_style_class">@media only screen and (min-width: 992px){.qfy-column-19-5a1557f15993d271119 > .column_inner {padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;}.wpb_row .vc_span_class.qfy-column-19-5a1557f15993d271119 {};}@media only screen and (max-width: 992px){.qfy-column-19-5a1557f15993d271119 > .column_inner{margin:0 auto 0 !important;padding-left:0;padding-right:0;padding-top:;padding-bottom:;}.display_entire .wpb_row .vc_span_class.qfy-column-19-5a1557f15993d271119 {}.qfy-column-19-5a1557f15993d271119 > .column_inner> .background-overlay,.qfy-column-19-5a1557f15993d271119 > .column_inner> .background-media{width:100% !important;left:0 !important;right:auto !important;}}</style>        </div>
+    </div>
+	
+</section><section  data-fixheight="" class="qfy-row-11-5a1557f159d86807102 section     no  section-text-no-shadow section-inner-no-shadow section-normal"  id="bit_mzgxl"  style='margin-bottom:0;border-radius:0px;color:#8d9095;' >
+    <style class="row_class qfy_style_class">
+	@media only screen and (min-width: 992px){
+		section.section.qfy-row-11-5a1557f159d86807102{padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;margin-top:50px;}}
+	   	
+	   @media only screen and (max-width: 992px){
+		.bit-html section.section.qfy-row-11-5a1557f159d86807102{padding-left:15px;padding-right:15px;padding-top:0;padding-bottom:0;margin-top:0;}}
+	</style>
+    	    <div class="section-background-overlay background-overlay grid-overlay-0 " style="background-color: #ffffff;"></div>
+
+    <div class="container">
+        <div class="row wpb_row">
+            <div   data-animaleinbegin="bottom-in-view" data-animalename="qfyfadeInUp"  data-duration="" data-delay=""  class=" qfy-column-20-5a1557f15a0e5492935 qfy-column-inner  vc_span12  text-default small-screen-default fullrow"  data-dw="1/1" data-fixheight="" ><div style=";position:relative;;" class="column_inner " ><div class=" background-overlay grid-overlay-" style="background-color:transparent;width:100%;"></div><div class="column_containter" style="z-index:3;position:relative;" >
+	<div  m-padding="0px 0px 0px 0px"  p-padding="0px 0px 0px 0px" css_animation_delay="0" qfyuuid="0"  class="qfy-element qfy-text qfy-text-39365 wpb_text_column wpb_content_element " style="position: relative;;;line-height:1.5em;;background-repeat: no-repeat;;margin-bottom:20px;">
+		<div class="wpb_wrapper">
+			<h1 class="section-title wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown; text-align: center;">Photographs show</h1>
+
+		</div> 
+	</div> <style>@media only screen and (max-width: 760px) {.thumbnail_text-5a1557f15a7dd384 .head{font-size: 16px !important;}.thumbnail_text-5a1557f15a7dd384 .content{font-size: 16px !important;}}</style>
+	<div  m-padding="0px 0px 0px 0px"  p-padding="0px 0px 0px 0px" css_animation_delay="0" qfyuuid="0"  class="qfy-element wpb_gallery wpb_content_element vc_clearfix bottom_nav"  style='max-width:100%;width:1000px; '>
+		<div style="padding-bottom:25px;" class="wpb_wrapper " ><div  class="wpb_gallery_slides wpb_flexslider flexslider_slide flexslider" data-interval="10" data-flex_fx="slide" data-bottom_nav=1  data-direction=1 ><ul class="slides"><li><div class="qfy_image_vc_item" style="position:relative;"><img class=" ag_image" data-width="992" data-height="592" style="width:992px;height:592px;max-width:100%;" src="http://static.qifeiye.com/caches/0482949eac6b5cb4703326ef21f64e6a/aHR0cDovLzU1MTNlOGVkOGZjYTkudDczLnFpZmVpeWUuY29tL3FmeS1jb250ZW50L3VwbG9hZHMvMjAxNC8wNi8xZTk5NDRkZmFjMWVhYzdhNjAyZDY1NjIwYjQ5MmE0OC0xMDAweDU2Mi5qcGc_p_p100_p_3D.jpg" alt="W1" description=""    data-title="W1" title="" src-img ="" /><i></i></div></li><li><div class="qfy_image_vc_item" style="position:relative;"><img class=" ag_image" data-width="992" data-height="592" style="width:992px;height:592px;max-width:100%;" src="http://static.qifeiye.com/caches/0482949eac6b5cb4703326ef21f64e6a/aHR0cDovLzU1MTNlOGVkOGZjYTkudDczLnFpZmVpeWUuY29tL3FmeS1jb250ZW50L3VwbG9hZHMvMjAxNC8wNi82OGU5YTQzODM3ZDkyZmYyZmE4MWE4M2M0ZWQ4MGE0NS0xMDAweDU2Mi5qcGc_p_p100_p_3D.jpg" alt="W3" description=""    data-title="W3" title="" src-img ="" /><i></i></div></li></ul></div>
+		</div> 
+	</div> </div></div></div><style class="column_class qfy_style_class">@media only screen and (min-width: 992px){.qfy-column-20-5a1557f15a0e5492935 > .column_inner {padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;}.wpb_row .vc_span_class.qfy-column-20-5a1557f15a0e5492935 {};}@media only screen and (max-width: 992px){.qfy-column-20-5a1557f15a0e5492935 > .column_inner{margin:0 auto 0 !important;padding-left:0;padding-right:0;padding-top:;padding-bottom:;}.display_entire .wpb_row .vc_span_class.qfy-column-20-5a1557f15a0e5492935 {}.qfy-column-20-5a1557f15a0e5492935 > .column_inner> .background-overlay,.qfy-column-20-5a1557f15a0e5492935 > .column_inner> .background-media{width:100% !important;left:0 !important;right:auto !important;}}</style>        </div>
+    </div>
+	
+</section><section  data-fixheight="" class="qfy-row-12-5a1557f15b0e1431578 section     no  section-text-no-shadow section-inner-no-shadow section-normal"  id="bit_ocmzg"  style='margin-bottom:0;border-radius:0px;color:#ffffff;' >
+    <style class="row_class qfy_style_class">
+	@media only screen and (min-width: 992px){
+		section.section.qfy-row-12-5a1557f15b0e1431578{padding-left:0;padding-right:0;padding-top:120px;padding-bottom:120px;margin-top:0;}section.section.qfy-row-12-5a1557f15b0e1431578 > .container{max-width:1280px;margin:0 auto;}}
+	   	
+	   @media only screen and (max-width: 992px){
+		.bit-html section.section.qfy-row-12-5a1557f15b0e1431578{padding-left:15px;padding-right:15px;padding-top:20px;padding-bottom:20px;margin-top:0;}}
+	</style>
+    	    <div class="section-background-overlay background-overlay grid-overlay-0 " style="background-color: #103b5b;"></div>
+
+    <div class="container">
+        <div class="row wpb_row">
+            <div   data-animaleinbegin="bottom-in-view" data-animalename="qfyfadeInUp"  data-duration="" data-delay=""  class=" qfy-column-21-5a1557f15b2cb783648 qfy-column-inner  vc_span12  text-default small-screen-default fullrow"  data-dw="1/1" data-fixheight="" ><div style=";position:relative;;" class="column_inner " ><div class=" background-overlay grid-overlay-" style="background-color:transparent;width:100%;"></div><div class="column_containter" style="z-index:3;position:relative;" >
+	<div id="vc_header_5a1557f15b573967"  m-padding="0px 0px 0px 0px"  p-padding="0 0 0 0" css_animation_delay="0" qfyuuid="qfy_header_kay4q" data-anitime='0.7'  class="qfy-element minheigh1px wpb_text_column wpb_content_element " style="position: relative;;;background-repeat: no-repeat;;margin-top:20px;margin-bottom:20px;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;"><style>@media only screen and (max-width: 760px) {#vc_header_5a1557f15b573967 .header_title{font-size:30px !important;}}@media only screen and (max-width: 760px) {#vc_header_5a1557f15b573967 .header_subtitle{font-size:14px !important;}}</style>
+		<div class="wpb_wrapper">
+			<H1 class="qfy_title center mobilecenter"><div class="qfy_title_inner" style="display:inline-block;position:relative;max-width:100%;"><div class="header_title" style="font-size:50px;font-weight:normal;font-style:normal;color:#ffffff;">联系我吧</div></div><style></style><div class="button_wrapper" style="display:none;"><div class="button " style="display:inline-block;max-width:100%;text-align:center; font-size:12px;"></div></div><span  style="clear:both;"></span></H1>
+		</div> 
+	</div> 
+	<div  m-padding="0px 0px 0px 0px"  p-padding="0 0 0 0" css_animation_delay="0" qfyuuid="qfy_column_text_elg8i" data-anitime='0.7'  class="qfy-element qfy-text qfy-text-48595 wpb_text_column wpb_content_element " style="position: relative;;;line-height:2em;;background-position:left top;background-repeat: no-repeat;;margin-top:50px;margin-bottom:40px;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;border-radius:0px;">
+		<div class="wpb_wrapper">
+			<div style="text-align: center;"><span style="font-size:22px;">电话：<a href="Tel://15912312583" rel="undefined" target="_blank">15912312583</a></span></div>
+
+<div style="text-align: center;"><span style="font-size:22px;">邮箱：<a href="mailto://xuhuaidong@gmail.com" rel="undefined" target="_blank" url-flag="1" url-flagtarget="">xuhuaidong@gmail.com</a></span></div>
+
+		</div> 
+	</div> <div id="icons_list-5a1557f15badc9953" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;"  m-padding="0px 0px 0px 0px"  p-padding="0 0 0 0" css_animation_delay="0" qfyuuid="qfy_socail_icons_list_fpu6w"  class="qfy-icons_list  qfy-element " ><ul class="gallery_icons_list " style="text-align:center;"><li  style='display:inline-block;'  ><span data-desc='' data-tj='1' data-ta='2' data-width='150' data-image='' style='margin-left:5px;margin-right:5px;margin-bottom:px' class=' qfy-icon qfy-icon_64x64 facebook-icon_64x64' ></span></li><li  style='display:inline-block;'  ><span data-desc='' data-tj='1' data-ta='2' data-width='150' data-image='' style='margin-left:5px;margin-right:5px;margin-bottom:px' class=' qfy-icon qfy-icon_64x64 twitter-icon_64x64' ></span></li><li  style='display:inline-block;'  ><span data-desc='' data-tj='1' data-ta='2' data-width='150' data-image='' style='margin-left:5px;margin-right:5px;margin-bottom:px' class=' qfy-icon qfy-icon_64x64 linkedin-icon_64x64' ></span></li><li  style='display:inline-block;'  ><span data-desc='' data-tj='1' data-ta='2' data-width='150' data-image='' style='margin-left:5px;margin-right:5px;margin-bottom:px' class=' qfy-icon qfy-icon_64x64 weibo-icon_64x64' ></span></li><li  style='display:inline-block;'  ><span data-desc='' data-tj='1' data-ta='2' data-width='150' data-image='' style='margin-left:5px;margin-right:5px;margin-bottom:px' class=' qfy-icon qfy-icon_64x64 tudou-icon_64x64' ></span></li><li  style="clear:both;"></li></ul></div>
+	<div  m-padding="18px 0px 0px 0px"  p-padding="18px 0 0 0" css_animation_delay="0" qfyuuid="qfy_column_text_qvxkx" data-anitime='0.7'  class="qfy-element qfy-text qfy-text-81537 wpb_text_column wpb_content_element  mobile_fontsize" style="position: relative;;;line-height:1.5em;;background-position:left top;background-repeat: no-repeat;;margin-top:0;margin-bottom:0;padding-top:18px;padding-bottom:0;padding-right:0;padding-left:0;border-radius:0px;">
+		<div class="wpb_wrapper">
+			<div style="text-align: center;"><span style="font-size:14px;">版权所有 ©2005 &#8211; 2117 徐怀东的个人简介</span></div>
+
+		</div> 
+	</div> </div></div></div><style class="column_class qfy_style_class">@media only screen and (min-width: 992px){.qfy-column-21-5a1557f15b2cb783648 > .column_inner {padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;}.wpb_row .vc_span_class.qfy-column-21-5a1557f15b2cb783648 {};}@media only screen and (max-width: 992px){.qfy-column-21-5a1557f15b2cb783648 > .column_inner{margin:0 auto 0 !important;padding-left:0;padding-right:0;padding-top:;padding-bottom:;}.display_entire .wpb_row .vc_span_class.qfy-column-21-5a1557f15b2cb783648 {}.qfy-column-21-5a1557f15b2cb783648 > .column_inner> .background-overlay,.qfy-column-21-5a1557f15b2cb783648 > .column_inner> .background-media{width:100% !important;left:0 !important;right:auto !important;}}</style>        </div>
+    </div>
+	
+</section>                             </div>
+                    
+
+                         <div class="clear"></div>
+                    </div>
+              </div>
+        </div><!-- END .page-wrapper -->
+         <div class="clear"></div>
+</div>
+<div class="clear"></div>
+
+			
+			</div>
+		
+    			</div><!-- .wf-container -->
+		</div><!-- .wf-wrap -->
+	</div><!-- #main -->
+	<footer id="footer" class="footer"  >
+	<div class="wf-wrap">
+		<div class="wf-container wpb_row footer1" bitDataAction='site_widget_container' bitdatamarker="sidebar_2" >
+			<section id="simplepage-2"  style="margin-bottom:20px;" class="widget simplepage site_tooler"><style class='style_simplepage-2'>#simplepage-2 .widget-title{padding:0 0 0 10px;height:28px;line-height:28px;background-color:transparent;margin:0px;font-family:;font-size:px;font-weight:normal;font-style:normal;text-decoration:none;color:#ffffff;border-top:1px solid transparent;border-left:1px solid transparent;border-right:1px solid transparent;border-bottom:0px solid transparent;background-image:none;-webkit-border-top-left-radius: 4px;-webkit-border-top-right-radius: 4px;-moz-border-radius-topleft: 4px;-moz-border-radius-topright: 4px;border-top-left-radius: 4px;border-top-right-radius: 4px;} #simplepage-2 .widget-title{border-top:0;border-left:0;border-right:0;} #simplepage-2 .bitWidgetFrame{border-bottom:0;border-top:0;border-left:0;border-right:0;padding:4px 10px 4px 10px;}#simplepage-2{-webkit-box-shadow:none;box-shadow:none;}#simplepage-2 .bitWidgetFrame{background-color:transparent;background-image:none;-webkit-border-bottom-left-radius: 4px;border-bottom-left-radius: 4px;-webkit-border-bottom-right-radius: 4px;border-bottom-right-radius: 4px;}#simplepage-2 .bitWidgetFrame{padding-left:0px;padding-right:0px;}body #simplepage-2 .bitWidgetFrame{padding-top:0px !important;padding-bottom:0px !important;}</style><div class='simplepage_container bitWidgetFrame' data-post_id='8776' ><section  data-fixheight="" class="qfy-row-13-5a1557f15c806342369 section     no  section-text-no-shadow section-inner-no-shadow section-normal"  id="bit_gd5pg"  style='margin-bottom:0;border-radius:0px;color:#ffffff;' >
+    <style class="row_class qfy_style_class">
+	@media only screen and (min-width: 992px){
+		section.section.qfy-row-13-5a1557f15c806342369{padding-left:0;padding-right:0;padding-top:20px;padding-bottom:0;margin-top:0;}section.section.qfy-row-13-5a1557f15c806342369 > .container{max-width:1280px;margin:0 auto;}}
+	   	
+	   @media only screen and (max-width: 992px){
+		.bit-html section.section.qfy-row-13-5a1557f15c806342369{padding-left:15px;padding-right:15px;padding-top:20px;padding-bottom:0;margin-top:0;}}
+	</style>
+    	    <div class="section-background-overlay background-overlay grid-overlay-0 " style="background-color: #000000;"></div>
+
+    <div class="container">
+        <div class="row wpb_row">
+            <div   data-animaleinbegin="bottom-in-view" data-animalename="qfyfadeInUp"  data-duration="" data-delay=""  class=" qfy-column-22-5a1557f15c9c1869968 qfy-column-inner  vc_span12  text-default small-screen-undefined fullrow"  data-dw="1/1" data-fixheight="" ><div style=";position:relative;;" class="column_inner " ><div class=" background-overlay grid-overlay-" style="background-color:transparent;width:100%;"></div><div class="column_containter" style="z-index:3;position:relative;" >
+	<div  m-padding="0px 0px 0px 0px"  p-padding="0 0 0 0" css_animation_delay="0" qfyuuid="qfy_column_text_5hwug" data-anitime='0.7'  class="qfy-element qfy-text qfy-text-9062 wpb_text_column wpb_content_element " style="position: relative;;;line-height:1.5em;;background-position:left top;background-repeat: no-repeat;;margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;border-radius:0px;">
+		<div class="wpb_wrapper">
+			<div style="text-align: center;"><span style="font-size:14px;"><span style="font-family: 微软雅黑;"><span style="color: rgb(255, 255, 255);">版权所有 2015 徐怀东的简历</span><a target="_blank" url-flag="1" url-flagtarget="_blank"><span style="color: rgb(255, 255, 255);"></span></a></span></span></div>
+
+		</div> 
+	</div> </div></div></div><style class="column_class qfy_style_class">@media only screen and (min-width: 992px){.qfy-column-22-5a1557f15c9c1869968 > .column_inner {padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;}.wpb_row .vc_span_class.qfy-column-22-5a1557f15c9c1869968 {};}@media only screen and (max-width: 992px){.qfy-column-22-5a1557f15c9c1869968 > .column_inner{margin:0 auto 0 !important;padding-left:0;padding-right:0;padding-top:;padding-bottom:;}.display_entire .wpb_row .vc_span_class.qfy-column-22-5a1557f15c9c1869968 {}.qfy-column-22-5a1557f15c9c1869968 > .column_inner> .background-overlay,.qfy-column-22-5a1557f15c9c1869968 > .column_inner> .background-media{width:100% !important;left:0 !important;right:auto !important;}}</style>        </div>
+    </div>
+	
+</section></div></section>		</div><!-- .wf-container -->
+							</div><!-- .wf-wrap -->
+	<!--  ************begin************* -->
+<style type="text/css" id="static-stylesheet-footer">
+#footer.footer .footer1 .widget{width: 99%;}#footer.footer .footer1 .widget.simplepage{width: 100%;}.bit_main_content{margin-top:0px;margin-bottom:0px}
+</style>
+<!--  ************end************* -->
+</footer>
+			
+	
+	
+
+<a href="#" class="scroll-top "></a>
+
+</div><!-- #page -->
+
+<script type="text/javascript" src="//5513e8ed8fca9.t73.qifeiye.com/qfy-content/cache/scripts/f30adcec2abba7174e915cbe0355df11.js">/*Cache!*/</script>
+<link rel="stylesheet" href="//5513e8ed8fca9.t73.qifeiye.com/qfy-content/cache/scripts/72169fdd355d83249f7243966065f318.css" type="text/css" media="all" /> <!-- Cache! -->
+<style type='text/css'>
+
+</style>
+<div style='display:none;'></div></body>
+
+</html>
