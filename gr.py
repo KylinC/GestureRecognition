@@ -13,22 +13,15 @@ from pp import *
 from crnn import crnn
 
 model = crnn()
-model_path = 'model/model.pth'
-model.load_state_dict(torch.load('model/model.pth'))
+model_path = 'model/model_0.pth'
+model.load_state_dict(torch.load(model_path))
 
-gesture_map = {}
-gesture_map_rev = {}
-for i, gesture in enumerate(os.listdir('data')):
-    gesture_map[gesture] = i
-    gesture_map_rev[i] = gesture
+with open("map.pkl", "rb") as f:
+    gesture_map, gesture_map_rev = pickle.load(f)
+
 
 cpp = CPP()
 cpp.start()
-
-root_path = './data/'
-
-# if not os.path.exists(root_path):
-#     os.makedirs(root_path)
 
 recording = False
 
@@ -53,12 +46,7 @@ try:
                 y = model(x).detach().numpy().argmax()
                 gesture = gesture_map_rev[y]
                 print(gesture)
-                # choice = input("add it to training set? (y/n)")
-                # if choice == 'y':
-                #     file_name = os.path.join(root_path, gesture, str(int(time()))) + '.pkl'
-                #     with open(file_name, 'wb') as f:
-                #         pickle.dump((data[:int(0.9 * len(data))], gesture), file=f)
-
+                
                 recording = False 
 
             continue
