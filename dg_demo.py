@@ -15,6 +15,7 @@ try:
 
         # crop
         hand_c, hand_d = crop_cd(color, depth)
+        
         if hand_c is None or hand_d is None:
             # end of recording or not started
             continue
