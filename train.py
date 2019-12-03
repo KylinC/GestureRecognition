@@ -50,6 +50,9 @@ optimizer = optim.Adam(model.parameters(), lr=5e-4)
 
 
 # train
+
+BATCH_SIZE = 16 
+
 for epoch in range(2):
     for i, pkl_file in enumerate(trainset):
         x, y = preprocess_pkl(pkl_file)
