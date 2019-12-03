@@ -17,11 +17,14 @@ import dip
 cpp = CPP()
 cpp.start()
 
-gesture = 'snap'
+gesture = 'nonono'
 root_path = './data/' + gesture
 
 if not os.path.exists(root_path):
     os.makedirs(root_path)
+
+origin_num = len(os.listdir(root_path))
+
 
 recording = False
 
@@ -40,7 +43,8 @@ try:
                 with open(file_name, 'wb') as f:
                     pickle.dump((data[:int(0.9 * len(data))], gesture), file=f)
 
-                print(file_name, ' saved!')
+                print(file_name, ' saved!', origin_num)
+                origin_num += 1
 
                 recording = False
             continue
