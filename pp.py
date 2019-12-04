@@ -12,10 +12,8 @@ import torch
 import pickle
 import os
 
-gesture_map = {}
-for i, gesture in enumerate(os.listdir('data')):
-    gesture_map[gesture] = i
-
+with open("map.pkl", "rb") as f:
+    gesture_map, gesture_map_rev = pickle.load(f)
 
 def preprocess_pkl(pkl_file):
     with open(pkl_file, 'rb') as f:
