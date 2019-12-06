@@ -1,0 +1,224 @@
+<!doctype html>
+<html lang="en">
+<head>
+	
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="robots" content="index, follow" />
+		<meta name="generator" content="RapidWeaver" />
+		
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:title" content="GestureRecognition">
+	<meta name="twitter:image" content="http://47.102.102.90:5555/resources/all_frames.png">
+	<meta name="twitter:url" content="http://47.102.102.90:5555/index.html">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="Gesture Recognition">
+	<meta property="og:title" content="GestureRecognition">
+	<meta property="og:image" content="http://47.102.102.90:5555/resources/all_frames.png">
+	<meta property="og:url" content="http://47.102.102.90:5555/index.html">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="baseurl" content="http://47.102.102.90:5555/">
+	<link rel="stylesheet" type="text/css" media="all" href="rw_common/themes/kiki/consolidated-0.css?rwcache=597344387" />
+		
+	
+	<title>GestureRecognition</title>
+	
+	
+	
+</head>
+
+<body>
+	<header class="container-fluid">
+		<div class="container">
+			<div class="row">
+				<div class="col-12" id="title">
+					<a href="http://47.102.102.90:5555/"><small class="hidden-sm hidden-xs">Gesture Recognition</small></a>
+				</div>
+			</div>
+		</div>
+	</header>
+
+	<nav class="container-fluid">
+		<div class="container">
+			<div class="row">
+				<label for="show-menu" class="show-menu">Show Menu</label>
+				<input type="checkbox" id="show-menu" role="button">
+				<ul><li><a href="./" rel="" id="current">Project</a></li><li><a href="https://github.com/KylinC/GestureRecognition" rel="">Source</a></li></ul>
+			</div>
+		</div>
+	</nav>
+
+	<main class="content">
+
+		<div class="cover cover-image margin-bottom-md">
+			<div class="container">
+				<div class="row">
+					<div class="col-12">
+						<h1 class="huge text-center-md">gesture recognition by realsense and pytorch</h1>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+			<aside class="col-md-4 float-right-md">
+				<div class="sidenav">
+					<ul></ul>
+				</div>
+				<h5></h5>
+				<p></p>
+				<p></p>
+			</aside>
+
+			<article class="container-fluid col-md-8">
+					<h1 id="gesturerecognition">Gesture Recognition</h1>
+
+<blockquote>
+<p>SJTU-CS386 Project, dynamic gesture recognition with Realsense.</p>
+</blockquote>
+
+<p><a href=""><img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="" /></a></p>
+
+<p><a href=""><img src="https://img.shields.io/badge/python-3.5.7-blue.svg" alt="" /></a></p>
+
+<p><a href=""><img src="https://img.shields.io/badge/Torch-1.0-orange" alt="" /></a></p>
+
+<h2 id="introduction">Introduction</h2>
+
+<p>Supported by <strong>Intel</strong> Realsense and Pytorch, we developed a segmentation + CRNN model to classify online gesture video. We also achieve a demo where one can handle his or her <em>Chrome Browser</em> by gesture. </p>
+
+<h2 id="dataset">Dataset</h2>
+
+<p><img src="http://kylinhub.oss-cn-shanghai.aliyuncs.com/2019-12-06-all_frames.jpg" width="50%" height="50%" /></p>
+
+<p>We use <strong>Realsense</strong> to record 14 actions of different gesture videos, which have various time lengths (frames) and all resized to 64x64 2d image size, 4 Channels (B,G,R,Depth) are included. </p>
+
+<p><a href="https://github.com/KylinC/GestureRecognition/tree/master/data">Data Click Here</a> </p>
+
+<h2 id="model">Model</h2>
+
+<ul>
+<li><strong>Depth-Based Segmentation</strong></li>
+</ul>
+
+<p>The videos <strong>RealSense</strong> get actually are (B,G,R) and (Depth) images sequence, so we first use Depth information to handle segmantation on (B,G,R) images, which makes images remain gesture parts while others become 0(black pixel).</p>
+
+<p>The threshold should adapt to the test environment.</p>
+
+<ul>
+<li><strong>Deep CNN + LSTM</strong></li>
+</ul>
+
+<p>We use a composed model based on CNN and LSTM, which means we want CNN to handle image information while use LSTM last hidden output to get video time-sequence imformation. Mostly, CNN + LSTM can handle the various size and time length video, which can be another benefit, overall.</p>
+
+<figure>
+<img src="http://kylinhub.oss-cn-shanghai.aliyuncs.com/2019-12-06-GS.jpg" alt="" />
+<figcaption></figcaption></figure>
+
+<h2 id="view">View</h2>
+
+<ul>
+<li><strong>Online Gesture Recognition</strong></li>
+</ul>
+
+<p><img src="http://kylinhub.oss-cn-shanghai.aliyuncs.com/2019-12-06-demo2_1.gif" width="80%" height="80%" /></p>
+
+<ul>
+<li><strong>Chrome Handler</strong></li>
+</ul>
+
+<p><img src="http://kylinhub.oss-cn-shanghai.aliyuncs.com/2019-12-06-sb.gif" width="80%" height="80%" /></p>
+
+<h2 id="launch">Launch</h2>
+
+<ul>
+<li>Download and Install Dependency</li>
+</ul>
+
+<pre><code class="bash">git clone https://github.com/KylinC/GestureRecognition.git
+
+# install requirements.txt
+cd GestureRecognition
+pip install requirements.txt
+</code></pre>
+
+<ul>
+<li>Download <strong>Chrome</strong> Driver</li>
+</ul>
+
+<p>click the website to download corresponding version: </p>
+
+<p><a href="http://chromedriver.storage.googleapis.com/index.html"><strong>http://chromedriver.storage.googleapis.com/index.html</strong></a></p>
+
+<ul>
+<li>Run the <strong>Chrome Handler</strong> Demo</li>
+</ul>
+
+<pre><code class="bash">python src/demo.py
+</code></pre>
+
+<h2 id="performance">Performance</h2>
+
+<p>We &quot;shuffle&quot; the training data and give a batch input to the network to stable the loss and accuracy, we can find the model really works. </p>
+
+<p><img src="http://kylinhub.oss-cn-shanghai.aliyuncs.com/2019-12-06-training_log.png" width="50%" height="50%" /></p>
+
+<h2 id="realsensesr300installationonubuntu18.04">realsense SR300 installation on Ubuntu18.04</h2>
+
+<ul>
+<li>packages installation</li>
+</ul>
+
+<pre><code class="sh">sudo apt-get update &amp;&amp; sudo apt-get upgrade &amp;&amp; sudo apt-get dist-upgrade
+
+sudo apt-get install git libssl-dev libusb-1.0-0-dev pkg-config libgtk-3-dev libglfw3-dev libgl1-mesa-dev libglu1-mesa-dev
+
+# fetch the source code
+git clone https://github.com/IntelRealSense/librealsense
+cd librealsense
+
+# build from source
+mkdir build &amp;&amp; cd build
+cmake ..
+cmake ../ -DBUILD_EXAMPLES=true
+make &amp;&amp; sudo make install
+
+cd ..
+sudo cp config/99-realsense-libusb.rules /etc/udev/rules.d
+sudo udevadm control --reload-rules &amp;&amp; udevadm trigger
+
+## connect realsense sr300 to run demo
+## ./build/examples/capture/rs-capture
+</code></pre>
+
+<ul>
+<li>python API configuration</li>
+</ul>
+
+<pre><code class="sh">pip install pyrealsense2
+</code></pre>
+
+<p><br/></p>
+
+<blockquote>
+<p>View the source code on <a href="https://github.com/KylinC/GestureRecognition">https://github.com/KylinC/GestureRecognition</a></p>
+</blockquote>
+			</article>
+		</div>
+
+	</main> <!-- content -->
+
+	<footer class="container-fluid">
+		<div class="container">
+			<div class="col-12 text-center" id="copyright">
+					&copy;Kylinchen 2019 <a href="#" id="rw_email_contact">Contact Us</a><script type="text/javascript">var _rwObsfuscatedHref0 = "mai";var _rwObsfuscatedHref1 = "lto";var _rwObsfuscatedHref2 = ":ky";var _rwObsfuscatedHref3 = "lin";var _rwObsfuscatedHref4 = "c@a";var _rwObsfuscatedHref5 = "cm.";var _rwObsfuscatedHref6 = "org";var _rwObsfuscatedHref = _rwObsfuscatedHref0+_rwObsfuscatedHref1+_rwObsfuscatedHref2+_rwObsfuscatedHref3+_rwObsfuscatedHref4+_rwObsfuscatedHref5+_rwObsfuscatedHref6; document.getElementById("rw_email_contact").href = _rwObsfuscatedHref;</script>
+			</div>
+		</div>
+	</footer><!-- footer -->
+
+    <!-- Javascript includes -->
+	<script type="text/javascript" src="rw_common/themes/kiki/javascript.js?rwcache=597344387"></script>
+	
+	
+</body>
+</html><!-- END html -->

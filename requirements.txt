@@ -1,0 +1,7 @@
+numpy
+pyrealsense2
+pickle
+matplotlib
+cv2
+torch
+selenium
