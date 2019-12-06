@@ -3,7 +3,7 @@ import numpy as np
 import cv2 
 import os
 
-root_path = './data/zoom_out'
+root_path = './data/wipe_left'
 
 for file_name in os.listdir(root_path):
     file_name = os.path.join(root_path, file_name)

@@ -32,7 +32,7 @@ def get_bb(closed):
             min(x1 + width, closed.shape[1])
         ]
 
-        if (x1 - x2) * (y1 - y2) < 30 * 30: # noise
+        if (x1 - x2) * (y1 - y2) < 50 * 50: # noise
             return None 
         else:
             return bb  # [y_min, y_max, x_min, x_max]

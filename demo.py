@@ -14,10 +14,7 @@ from pp import *
 from crnn import crnn
 
 # browser package
-from selenium import webdriver
-from selenium.webdriver.common.action_chains import ActionChains
-import time
-from selenium.webdriver.common.keys import Keys
+from superbrowser import *
 
 model = crnn()
 model_path = 'model/model_0.pth'
@@ -33,15 +30,9 @@ cpp.start()
 recording = False
 
 chrome_driver = "/home/ding/Downloads/chromedriver_linux64/chromedriver"
-driver = webdriver.Chrome(executable_path = chrome_driver)
+entity = superbrowser(chrome_driver)
+entity.get_test_url()
 
-# driver.get("https://www.csdn.net")
-# driver.get("https://www.baidu.com")
-driver.get("https://github.com")
-
-operation_dict = {"wipe_left": driver.back(),"wipe_right": driver.forward()}
-
-location = 0
 
 try:
     while cv2.waitKey(1) != ord('q'):
@@ -67,27 +58,21 @@ try:
 
                 try:
                     if gesture == 'wipe_left':
-                        driver.back()
-                        location = 0
+                        entity.wipe_left()
                     elif gesture == 'wipe_right':
-                        driver.forward()
-                        location = 0
+                        entity.wipe_right()
                     elif gesture == 'wipe_up':
-                        for i in range(location,location+10):
-                            driver.execute_script('window.scrollTo(0, '+ str(i*100) +')')
-                            location+=10
-                            ActionChains(driver).key_down(Keys.DOWN).perform()
-                            time.sleep(0.1)
+                        entity.wipe_up()
                     elif gesture == 'wipe_down':
-                        if(location-10)<0:
-                            aim_location = 0
-                        else:
-                            aim_location = location - 10
-                        for i in range(location,aim_location,-1):
-                            driver.execute_script('window.scrollTo(0, '+ str(i*100) +')')
-                            ActionChains(driver).key_down(Keys.DOWN).perform()
-                            location = aim_location
-                            time.sleep(0.1)
+                        entity.wipe_down()
+                    elif gesture == 'zoom_in':
+                        entity.zoon_in()
+                    elif gesture == 'zoom_out':
+                        entity.zoon_out()
+                    elif gesture == 'point':
+                        entity.minimal()
+                    elif gesture == 'hook':
+                        entity.maximal()
                     
                 except:
                     pass
@@ -103,4 +88,4 @@ try:
 finally:
     cpp.stop()
     cv2.destroyAllWindows()
-    driver.quit()
+    entity.quit()
